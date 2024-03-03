@@ -1,0 +1,3 @@
+chysla=0,1
+border=500
+steps=10
