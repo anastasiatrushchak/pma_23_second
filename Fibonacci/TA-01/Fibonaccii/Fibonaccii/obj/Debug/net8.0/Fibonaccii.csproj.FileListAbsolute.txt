@@ -1,0 +1,14 @@
+D:\універ!\sharping\Fibonaccii\Fibonaccii\bin\Debug\net8.0\Fibonaccii.exe
+D:\універ!\sharping\Fibonaccii\Fibonaccii\bin\Debug\net8.0\Fibonaccii.deps.json
+D:\універ!\sharping\Fibonaccii\Fibonaccii\bin\Debug\net8.0\Fibonaccii.runtimeconfig.json
+D:\універ!\sharping\Fibonaccii\Fibonaccii\bin\Debug\net8.0\Fibonaccii.dll
+D:\універ!\sharping\Fibonaccii\Fibonaccii\bin\Debug\net8.0\Fibonaccii.pdb
+D:\універ!\sharping\Fibonaccii\Fibonaccii\obj\Debug\net8.0\Fibonaccii.GeneratedMSBuildEditorConfig.editorconfig
+D:\універ!\sharping\Fibonaccii\Fibonaccii\obj\Debug\net8.0\Fibonaccii.AssemblyInfoInputs.cache
+D:\універ!\sharping\Fibonaccii\Fibonaccii\obj\Debug\net8.0\Fibonaccii.AssemblyInfo.cs
+D:\універ!\sharping\Fibonaccii\Fibonaccii\obj\Debug\net8.0\Fibonaccii.csproj.CoreCompileInputs.cache
+D:\універ!\sharping\Fibonaccii\Fibonaccii\obj\Debug\net8.0\Fibonaccii.dll
+D:\універ!\sharping\Fibonaccii\Fibonaccii\obj\Debug\net8.0\refint\Fibonaccii.dll
+D:\універ!\sharping\Fibonaccii\Fibonaccii\obj\Debug\net8.0\Fibonaccii.pdb
+D:\універ!\sharping\Fibonaccii\Fibonaccii\obj\Debug\net8.0\Fibonaccii.genruntimeconfig.cache
+D:\універ!\sharping\Fibonaccii\Fibonaccii\obj\Debug\net8.0\ref\Fibonaccii.dll
