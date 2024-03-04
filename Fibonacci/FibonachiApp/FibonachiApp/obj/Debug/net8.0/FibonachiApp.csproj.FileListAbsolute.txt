@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\UnivercityProject\FibonachiApp\FibonachiApp\bin\Debug\net8.0\FibonachiApp.exe
+C:\Users\Admin\Desktop\UnivercityProject\FibonachiApp\FibonachiApp\bin\Debug\net8.0\FibonachiApp.deps.json
+C:\Users\Admin\Desktop\UnivercityProject\FibonachiApp\FibonachiApp\bin\Debug\net8.0\FibonachiApp.runtimeconfig.json
+C:\Users\Admin\Desktop\UnivercityProject\FibonachiApp\FibonachiApp\bin\Debug\net8.0\FibonachiApp.dll
+C:\Users\Admin\Desktop\UnivercityProject\FibonachiApp\FibonachiApp\bin\Debug\net8.0\FibonachiApp.pdb
+C:\Users\Admin\Desktop\UnivercityProject\FibonachiApp\FibonachiApp\obj\Debug\net8.0\FibonachiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\UnivercityProject\FibonachiApp\FibonachiApp\obj\Debug\net8.0\FibonachiApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\UnivercityProject\FibonachiApp\FibonachiApp\obj\Debug\net8.0\FibonachiApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\UnivercityProject\FibonachiApp\FibonachiApp\obj\Debug\net8.0\FibonachiApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\UnivercityProject\FibonachiApp\FibonachiApp\obj\Debug\net8.0\FibonachiApp.dll
+C:\Users\Admin\Desktop\UnivercityProject\FibonachiApp\FibonachiApp\obj\Debug\net8.0\refint\FibonachiApp.dll
+C:\Users\Admin\Desktop\UnivercityProject\FibonachiApp\FibonachiApp\obj\Debug\net8.0\FibonachiApp.pdb
+C:\Users\Admin\Desktop\UnivercityProject\FibonachiApp\FibonachiApp\obj\Debug\net8.0\FibonachiApp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\UnivercityProject\FibonachiApp\FibonachiApp\obj\Debug\net8.0\ref\FibonachiApp.dll

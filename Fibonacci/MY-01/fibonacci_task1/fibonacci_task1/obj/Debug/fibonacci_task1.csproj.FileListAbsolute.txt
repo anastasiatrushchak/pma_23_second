@@ -1,0 +1,9 @@
+D:\c# uni\fibonacci_task1\fibonacci_task1\obj\Debug\fibonacci_task1.csproj.AssemblyReference.cache
+D:\c# uni\fibonacci_task1\fibonacci_task1\obj\Debug\fibonacci_task1.csproj.CoreCompileInputs.cache
+D:\c# uni\fibonacci_task1\fibonacci_task1\bin\Debug\fibonacci_task1.exe.config
+D:\c# uni\fibonacci_task1\fibonacci_task1\bin\Debug\fibonacci_task1.exe
+D:\c# uni\fibonacci_task1\fibonacci_task1\bin\Debug\fibonacci_task1.pdb
+D:\c# uni\fibonacci_task1\fibonacci_task1\obj\Debug\fibonacci_task1.exe
+D:\c# uni\fibonacci_task1\fibonacci_task1\obj\Debug\fibonacci_task1.pdb
+D:\c# uni\fibonacci_task1\fibonacci_task1\bin\Debug\task1.txt
+D:\c# uni\fibonacci_task1\fibonacci_task1\bin\Debug\task2.txt
