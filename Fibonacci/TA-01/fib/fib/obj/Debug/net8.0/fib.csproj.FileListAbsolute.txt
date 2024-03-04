@@ -1,0 +1,14 @@
+D:\універ!\sharping\fib\fib\bin\Debug\net8.0\fib.exe
+D:\універ!\sharping\fib\fib\bin\Debug\net8.0\fib.deps.json
+D:\універ!\sharping\fib\fib\bin\Debug\net8.0\fib.runtimeconfig.json
+D:\універ!\sharping\fib\fib\bin\Debug\net8.0\fib.dll
+D:\універ!\sharping\fib\fib\bin\Debug\net8.0\fib.pdb
+D:\універ!\sharping\fib\fib\obj\Debug\net8.0\fib.GeneratedMSBuildEditorConfig.editorconfig
+D:\універ!\sharping\fib\fib\obj\Debug\net8.0\fib.AssemblyInfoInputs.cache
+D:\універ!\sharping\fib\fib\obj\Debug\net8.0\fib.AssemblyInfo.cs
+D:\універ!\sharping\fib\fib\obj\Debug\net8.0\fib.csproj.CoreCompileInputs.cache
+D:\універ!\sharping\fib\fib\obj\Debug\net8.0\fib.dll
+D:\універ!\sharping\fib\fib\obj\Debug\net8.0\refint\fib.dll
+D:\універ!\sharping\fib\fib\obj\Debug\net8.0\fib.pdb
+D:\універ!\sharping\fib\fib\obj\Debug\net8.0\fib.genruntimeconfig.cache
+D:\універ!\sharping\fib\fib\obj\Debug\net8.0\ref\fib.dll
