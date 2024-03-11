@@ -1,0 +1,14 @@
+/Users/nasta/RiderProjects/AddSubMatr/AddSubMatr/bin/Debug/net8.0/AddSubMatr
+/Users/nasta/RiderProjects/AddSubMatr/AddSubMatr/bin/Debug/net8.0/AddSubMatr.deps.json
+/Users/nasta/RiderProjects/AddSubMatr/AddSubMatr/bin/Debug/net8.0/AddSubMatr.runtimeconfig.json
+/Users/nasta/RiderProjects/AddSubMatr/AddSubMatr/bin/Debug/net8.0/AddSubMatr.dll
+/Users/nasta/RiderProjects/AddSubMatr/AddSubMatr/bin/Debug/net8.0/AddSubMatr.pdb
+/Users/nasta/RiderProjects/AddSubMatr/AddSubMatr/obj/Debug/net8.0/AddSubMatr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nasta/RiderProjects/AddSubMatr/AddSubMatr/obj/Debug/net8.0/AddSubMatr.AssemblyInfoInputs.cache
+/Users/nasta/RiderProjects/AddSubMatr/AddSubMatr/obj/Debug/net8.0/AddSubMatr.AssemblyInfo.cs
+/Users/nasta/RiderProjects/AddSubMatr/AddSubMatr/obj/Debug/net8.0/AddSubMatr.csproj.CoreCompileInputs.cache
+/Users/nasta/RiderProjects/AddSubMatr/AddSubMatr/obj/Debug/net8.0/AddSubMatr.dll
+/Users/nasta/RiderProjects/AddSubMatr/AddSubMatr/obj/Debug/net8.0/refint/AddSubMatr.dll
+/Users/nasta/RiderProjects/AddSubMatr/AddSubMatr/obj/Debug/net8.0/AddSubMatr.pdb
+/Users/nasta/RiderProjects/AddSubMatr/AddSubMatr/obj/Debug/net8.0/AddSubMatr.genruntimeconfig.cache
+/Users/nasta/RiderProjects/AddSubMatr/AddSubMatr/obj/Debug/net8.0/ref/AddSubMatr.dll
