@@ -8,6 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FibonachiBorder
-build_property.ProjectDir = C:\Users\Златомира\source\repos\C#\ZS-01\FibonachiBorder\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = D:\ЛНУ\git test\pma_23_second\Fibonacci\ZS-01\FibonachiBorder\
