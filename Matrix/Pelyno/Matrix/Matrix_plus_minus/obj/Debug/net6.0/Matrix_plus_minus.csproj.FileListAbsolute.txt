@@ -1,0 +1,15 @@
+D:\C#\Programming\Matrix_plus_minus\Matrix_plus_minus\bin\Debug\net6.0\Matrix_plus_minus.exe
+D:\C#\Programming\Matrix_plus_minus\Matrix_plus_minus\bin\Debug\net6.0\Matrix_plus_minus.deps.json
+D:\C#\Programming\Matrix_plus_minus\Matrix_plus_minus\bin\Debug\net6.0\Matrix_plus_minus.runtimeconfig.json
+D:\C#\Programming\Matrix_plus_minus\Matrix_plus_minus\bin\Debug\net6.0\Matrix_plus_minus.dll
+D:\C#\Programming\Matrix_plus_minus\Matrix_plus_minus\bin\Debug\net6.0\Matrix_plus_minus.pdb
+D:\C#\Programming\Matrix_plus_minus\Matrix_plus_minus\obj\Debug\net6.0\Matrix_plus_minus.csproj.AssemblyReference.cache
+D:\C#\Programming\Matrix_plus_minus\Matrix_plus_minus\obj\Debug\net6.0\Matrix_plus_minus.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming\Matrix_plus_minus\Matrix_plus_minus\obj\Debug\net6.0\Matrix_plus_minus.AssemblyInfoInputs.cache
+D:\C#\Programming\Matrix_plus_minus\Matrix_plus_minus\obj\Debug\net6.0\Matrix_plus_minus.AssemblyInfo.cs
+D:\C#\Programming\Matrix_plus_minus\Matrix_plus_minus\obj\Debug\net6.0\Matrix_plus_minus.csproj.CoreCompileInputs.cache
+D:\C#\Programming\Matrix_plus_minus\Matrix_plus_minus\obj\Debug\net6.0\Matrix_plus_minus.dll
+D:\C#\Programming\Matrix_plus_minus\Matrix_plus_minus\obj\Debug\net6.0\refint\Matrix_plus_minus.dll
+D:\C#\Programming\Matrix_plus_minus\Matrix_plus_minus\obj\Debug\net6.0\Matrix_plus_minus.pdb
+D:\C#\Programming\Matrix_plus_minus\Matrix_plus_minus\obj\Debug\net6.0\Matrix_plus_minus.genruntimeconfig.cache
+D:\C#\Programming\Matrix_plus_minus\Matrix_plus_minus\obj\Debug\net6.0\ref\Matrix_plus_minus.dll
