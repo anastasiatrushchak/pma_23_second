@@ -1,0 +1,14 @@
+D:\Максим диск D\Універ\2 курс\Програмування C#\MatrixLNU\MatrixLNU\bin\Debug\net8.0\MatrixLNU.exe
+D:\Максим диск D\Універ\2 курс\Програмування C#\MatrixLNU\MatrixLNU\bin\Debug\net8.0\MatrixLNU.deps.json
+D:\Максим диск D\Універ\2 курс\Програмування C#\MatrixLNU\MatrixLNU\bin\Debug\net8.0\MatrixLNU.runtimeconfig.json
+D:\Максим диск D\Універ\2 курс\Програмування C#\MatrixLNU\MatrixLNU\bin\Debug\net8.0\MatrixLNU.dll
+D:\Максим диск D\Універ\2 курс\Програмування C#\MatrixLNU\MatrixLNU\bin\Debug\net8.0\MatrixLNU.pdb
+D:\Максим диск D\Універ\2 курс\Програмування C#\MatrixLNU\MatrixLNU\obj\Debug\net8.0\MatrixLNU.GeneratedMSBuildEditorConfig.editorconfig
+D:\Максим диск D\Універ\2 курс\Програмування C#\MatrixLNU\MatrixLNU\obj\Debug\net8.0\MatrixLNU.AssemblyInfoInputs.cache
+D:\Максим диск D\Універ\2 курс\Програмування C#\MatrixLNU\MatrixLNU\obj\Debug\net8.0\MatrixLNU.AssemblyInfo.cs
+D:\Максим диск D\Універ\2 курс\Програмування C#\MatrixLNU\MatrixLNU\obj\Debug\net8.0\MatrixLNU.csproj.CoreCompileInputs.cache
+D:\Максим диск D\Універ\2 курс\Програмування C#\MatrixLNU\MatrixLNU\obj\Debug\net8.0\MatrixLNU.dll
+D:\Максим диск D\Універ\2 курс\Програмування C#\MatrixLNU\MatrixLNU\obj\Debug\net8.0\refint\MatrixLNU.dll
+D:\Максим диск D\Універ\2 курс\Програмування C#\MatrixLNU\MatrixLNU\obj\Debug\net8.0\MatrixLNU.pdb
+D:\Максим диск D\Універ\2 курс\Програмування C#\MatrixLNU\MatrixLNU\obj\Debug\net8.0\MatrixLNU.genruntimeconfig.cache
+D:\Максим диск D\Універ\2 курс\Програмування C#\MatrixLNU\MatrixLNU\obj\Debug\net8.0\ref\MatrixLNU.dll
