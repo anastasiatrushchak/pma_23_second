@@ -1,0 +1,42 @@
+D:\ЛНУ\2 курс 2 семестр\C#\Matrix\Matrix\bin\Debug\net6.0\Matrix.exe
+D:\ЛНУ\2 курс 2 семестр\C#\Matrix\Matrix\bin\Debug\net6.0\Matrix.deps.json
+D:\ЛНУ\2 курс 2 семестр\C#\Matrix\Matrix\bin\Debug\net6.0\Matrix.runtimeconfig.json
+D:\ЛНУ\2 курс 2 семестр\C#\Matrix\Matrix\bin\Debug\net6.0\Matrix.dll
+D:\ЛНУ\2 курс 2 семестр\C#\Matrix\Matrix\bin\Debug\net6.0\Matrix.pdb
+D:\ЛНУ\2 курс 2 семестр\C#\Matrix\Matrix\obj\Debug\net6.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЛНУ\2 курс 2 семестр\C#\Matrix\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfoInputs.cache
+D:\ЛНУ\2 курс 2 семестр\C#\Matrix\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfo.cs
+D:\ЛНУ\2 курс 2 семестр\C#\Matrix\Matrix\obj\Debug\net6.0\Matrix.csproj.CoreCompileInputs.cache
+D:\ЛНУ\2 курс 2 семестр\C#\Matrix\Matrix\obj\Debug\net6.0\Matrix.dll
+D:\ЛНУ\2 курс 2 семестр\C#\Matrix\Matrix\obj\Debug\net6.0\refint\Matrix.dll
+D:\ЛНУ\2 курс 2 семестр\C#\Matrix\Matrix\obj\Debug\net6.0\Matrix.pdb
+D:\ЛНУ\2 курс 2 семестр\C#\Matrix\Matrix\obj\Debug\net6.0\Matrix.genruntimeconfig.cache
+D:\ЛНУ\2 курс 2 семестр\C#\Matrix\Matrix\obj\Debug\net6.0\ref\Matrix.dll
+C:\Users\olesp\Downloads\Telegram Desktop\matrix\Matrix\Matrix\bin\Debug\net6.0\Matrix.exe
+C:\Users\olesp\Downloads\Telegram Desktop\matrix\Matrix\Matrix\bin\Debug\net6.0\Matrix.deps.json
+C:\Users\olesp\Downloads\Telegram Desktop\matrix\Matrix\Matrix\bin\Debug\net6.0\Matrix.runtimeconfig.json
+C:\Users\olesp\Downloads\Telegram Desktop\matrix\Matrix\Matrix\bin\Debug\net6.0\Matrix.dll
+C:\Users\olesp\Downloads\Telegram Desktop\matrix\Matrix\Matrix\bin\Debug\net6.0\Matrix.pdb
+C:\Users\olesp\Downloads\Telegram Desktop\matrix\Matrix\Matrix\obj\Debug\net6.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olesp\Downloads\Telegram Desktop\matrix\Matrix\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfoInputs.cache
+C:\Users\olesp\Downloads\Telegram Desktop\matrix\Matrix\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfo.cs
+C:\Users\olesp\Downloads\Telegram Desktop\matrix\Matrix\Matrix\obj\Debug\net6.0\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\olesp\Downloads\Telegram Desktop\matrix\Matrix\Matrix\obj\Debug\net6.0\Matrix.dll
+C:\Users\olesp\Downloads\Telegram Desktop\matrix\Matrix\Matrix\obj\Debug\net6.0\refint\Matrix.dll
+C:\Users\olesp\Downloads\Telegram Desktop\matrix\Matrix\Matrix\obj\Debug\net6.0\Matrix.pdb
+C:\Users\olesp\Downloads\Telegram Desktop\matrix\Matrix\Matrix\obj\Debug\net6.0\Matrix.genruntimeconfig.cache
+C:\Users\olesp\Downloads\Telegram Desktop\matrix\Matrix\Matrix\obj\Debug\net6.0\ref\Matrix.dll
+C:\lnu\program\matrix\Matrix\Matrix\bin\Debug\net6.0\Matrix.exe
+C:\lnu\program\matrix\Matrix\Matrix\bin\Debug\net6.0\Matrix.deps.json
+C:\lnu\program\matrix\Matrix\Matrix\bin\Debug\net6.0\Matrix.runtimeconfig.json
+C:\lnu\program\matrix\Matrix\Matrix\bin\Debug\net6.0\Matrix.dll
+C:\lnu\program\matrix\Matrix\Matrix\bin\Debug\net6.0\Matrix.pdb
+C:\lnu\program\matrix\Matrix\Matrix\obj\Debug\net6.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\lnu\program\matrix\Matrix\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfoInputs.cache
+C:\lnu\program\matrix\Matrix\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfo.cs
+C:\lnu\program\matrix\Matrix\Matrix\obj\Debug\net6.0\Matrix.csproj.CoreCompileInputs.cache
+C:\lnu\program\matrix\Matrix\Matrix\obj\Debug\net6.0\Matrix.dll
+C:\lnu\program\matrix\Matrix\Matrix\obj\Debug\net6.0\refint\Matrix.dll
+C:\lnu\program\matrix\Matrix\Matrix\obj\Debug\net6.0\Matrix.pdb
+C:\lnu\program\matrix\Matrix\Matrix\obj\Debug\net6.0\Matrix.genruntimeconfig.cache
+C:\lnu\program\matrix\Matrix\Matrix\obj\Debug\net6.0\ref\Matrix.dll
