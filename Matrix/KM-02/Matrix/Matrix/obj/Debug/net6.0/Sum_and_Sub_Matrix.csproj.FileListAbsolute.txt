@@ -1,0 +1,15 @@
+C:\Users\kravc\source\repos\Sum_and_Sub_Matrix\Sum_and_Sub_Matrix\bin\Debug\net6.0\Sum_and_Sub_Matrix.exe
+C:\Users\kravc\source\repos\Sum_and_Sub_Matrix\Sum_and_Sub_Matrix\bin\Debug\net6.0\Sum_and_Sub_Matrix.deps.json
+C:\Users\kravc\source\repos\Sum_and_Sub_Matrix\Sum_and_Sub_Matrix\bin\Debug\net6.0\Sum_and_Sub_Matrix.runtimeconfig.json
+C:\Users\kravc\source\repos\Sum_and_Sub_Matrix\Sum_and_Sub_Matrix\bin\Debug\net6.0\Sum_and_Sub_Matrix.dll
+C:\Users\kravc\source\repos\Sum_and_Sub_Matrix\Sum_and_Sub_Matrix\bin\Debug\net6.0\Sum_and_Sub_Matrix.pdb
+C:\Users\kravc\source\repos\Sum_and_Sub_Matrix\Sum_and_Sub_Matrix\obj\Debug\net6.0\Sum_and_Sub_Matrix.csproj.AssemblyReference.cache
+C:\Users\kravc\source\repos\Sum_and_Sub_Matrix\Sum_and_Sub_Matrix\obj\Debug\net6.0\Sum_and_Sub_Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kravc\source\repos\Sum_and_Sub_Matrix\Sum_and_Sub_Matrix\obj\Debug\net6.0\Sum_and_Sub_Matrix.AssemblyInfoInputs.cache
+C:\Users\kravc\source\repos\Sum_and_Sub_Matrix\Sum_and_Sub_Matrix\obj\Debug\net6.0\Sum_and_Sub_Matrix.AssemblyInfo.cs
+C:\Users\kravc\source\repos\Sum_and_Sub_Matrix\Sum_and_Sub_Matrix\obj\Debug\net6.0\Sum_and_Sub_Matrix.csproj.CoreCompileInputs.cache
+C:\Users\kravc\source\repos\Sum_and_Sub_Matrix\Sum_and_Sub_Matrix\obj\Debug\net6.0\Sum_and_Sub_Matrix.dll
+C:\Users\kravc\source\repos\Sum_and_Sub_Matrix\Sum_and_Sub_Matrix\obj\Debug\net6.0\refint\Sum_and_Sub_Matrix.dll
+C:\Users\kravc\source\repos\Sum_and_Sub_Matrix\Sum_and_Sub_Matrix\obj\Debug\net6.0\Sum_and_Sub_Matrix.pdb
+C:\Users\kravc\source\repos\Sum_and_Sub_Matrix\Sum_and_Sub_Matrix\obj\Debug\net6.0\Sum_and_Sub_Matrix.genruntimeconfig.cache
+C:\Users\kravc\source\repos\Sum_and_Sub_Matrix\Sum_and_Sub_Matrix\obj\Debug\net6.0\ref\Sum_and_Sub_Matrix.dll
