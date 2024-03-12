@@ -1,0 +1,14 @@
+C:\Users\Златомира\source\repos\C#\AdditionalSubtraction\AdditionalSubtraction\obj\Debug\AdditionalSubtraction.csproj.AssemblyReference.cache
+C:\Users\Златомира\source\repos\C#\AdditionalSubtraction\AdditionalSubtraction\obj\Debug\AdditionalSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\Златомира\source\repos\C#\AdditionalSubtraction\AdditionalSubtraction\bin\Debug\AdditionalSubtraction.exe.config
+C:\Users\Златомира\source\repos\C#\AdditionalSubtraction\AdditionalSubtraction\bin\Debug\AdditionalSubtraction.exe
+C:\Users\Златомира\source\repos\C#\AdditionalSubtraction\AdditionalSubtraction\bin\Debug\AdditionalSubtraction.pdb
+C:\Users\Златомира\source\repos\C#\AdditionalSubtraction\AdditionalSubtraction\obj\Debug\AdditionalSubtraction.exe
+C:\Users\Златомира\source\repos\C#\AdditionalSubtraction\AdditionalSubtraction\obj\Debug\AdditionalSubtraction.pdb
+C:\Users\Златомира\source\repos\C#\Severylova\AddSub\AdditionalSubtraction\bin\Debug\AdditionalSubtraction.exe.config
+C:\Users\Златомира\source\repos\C#\Severylova\AddSub\AdditionalSubtraction\bin\Debug\AdditionalSubtraction.exe
+C:\Users\Златомира\source\repos\C#\Severylova\AddSub\AdditionalSubtraction\bin\Debug\AdditionalSubtraction.pdb
+C:\Users\Златомира\source\repos\C#\Severylova\AddSub\AdditionalSubtraction\obj\Debug\AdditionalSubtraction.csproj.AssemblyReference.cache
+C:\Users\Златомира\source\repos\C#\Severylova\AddSub\AdditionalSubtraction\obj\Debug\AdditionalSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\Златомира\source\repos\C#\Severylova\AddSub\AdditionalSubtraction\obj\Debug\AdditionalSubtraction.exe
+C:\Users\Златомира\source\repos\C#\Severylova\AddSub\AdditionalSubtraction\obj\Debug\AdditionalSubtraction.pdb
