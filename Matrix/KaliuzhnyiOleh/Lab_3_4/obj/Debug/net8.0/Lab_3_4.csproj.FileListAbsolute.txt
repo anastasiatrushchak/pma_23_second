@@ -1,0 +1,14 @@
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_3_4\Lab_3_4\bin\Debug\net8.0\Lab_3_4.exe
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_3_4\Lab_3_4\bin\Debug\net8.0\Lab_3_4.deps.json
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_3_4\Lab_3_4\bin\Debug\net8.0\Lab_3_4.runtimeconfig.json
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_3_4\Lab_3_4\bin\Debug\net8.0\Lab_3_4.dll
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_3_4\Lab_3_4\bin\Debug\net8.0\Lab_3_4.pdb
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_3_4\Lab_3_4\obj\Debug\net8.0\Lab_3_4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_3_4\Lab_3_4\obj\Debug\net8.0\Lab_3_4.AssemblyInfoInputs.cache
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_3_4\Lab_3_4\obj\Debug\net8.0\Lab_3_4.AssemblyInfo.cs
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_3_4\Lab_3_4\obj\Debug\net8.0\Lab_3_4.csproj.CoreCompileInputs.cache
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_3_4\Lab_3_4\obj\Debug\net8.0\Lab_3_4.dll
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_3_4\Lab_3_4\obj\Debug\net8.0\refint\Lab_3_4.dll
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_3_4\Lab_3_4\obj\Debug\net8.0\Lab_3_4.pdb
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_3_4\Lab_3_4\obj\Debug\net8.0\Lab_3_4.genruntimeconfig.cache
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_3_4\Lab_3_4\obj\Debug\net8.0\ref\Lab_3_4.dll

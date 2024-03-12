@@ -1,0 +1,14 @@
+D:\універ!\sharping\MutrixMultiply\MutrixMultiply\bin\Debug\net8.0\MutrixMultiply.exe
+D:\універ!\sharping\MutrixMultiply\MutrixMultiply\bin\Debug\net8.0\MutrixMultiply.deps.json
+D:\універ!\sharping\MutrixMultiply\MutrixMultiply\bin\Debug\net8.0\MutrixMultiply.runtimeconfig.json
+D:\універ!\sharping\MutrixMultiply\MutrixMultiply\bin\Debug\net8.0\MutrixMultiply.dll
+D:\універ!\sharping\MutrixMultiply\MutrixMultiply\bin\Debug\net8.0\MutrixMultiply.pdb
+D:\універ!\sharping\MutrixMultiply\MutrixMultiply\obj\Debug\net8.0\MutrixMultiply.GeneratedMSBuildEditorConfig.editorconfig
+D:\універ!\sharping\MutrixMultiply\MutrixMultiply\obj\Debug\net8.0\MutrixMultiply.AssemblyInfoInputs.cache
+D:\універ!\sharping\MutrixMultiply\MutrixMultiply\obj\Debug\net8.0\MutrixMultiply.AssemblyInfo.cs
+D:\універ!\sharping\MutrixMultiply\MutrixMultiply\obj\Debug\net8.0\MutrixMultiply.csproj.CoreCompileInputs.cache
+D:\універ!\sharping\MutrixMultiply\MutrixMultiply\obj\Debug\net8.0\MutrixMultiply.dll
+D:\універ!\sharping\MutrixMultiply\MutrixMultiply\obj\Debug\net8.0\refint\MutrixMultiply.dll
+D:\універ!\sharping\MutrixMultiply\MutrixMultiply\obj\Debug\net8.0\MutrixMultiply.pdb
+D:\універ!\sharping\MutrixMultiply\MutrixMultiply\obj\Debug\net8.0\MutrixMultiply.genruntimeconfig.cache
+D:\універ!\sharping\MutrixMultiply\MutrixMultiply\obj\Debug\net8.0\ref\MutrixMultiply.dll
