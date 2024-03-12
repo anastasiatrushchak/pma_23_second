@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be71862c-0844-46e6-9ca0-47ba5eb88c79" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/Lab_3_4.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/Main.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/Matrix.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/MatrixExceptions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/Vector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/bin/Debug/net8.0/Lab_3_4.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/bin/Debug/net8.0/Lab_3_4.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/bin/Debug/net8.0/Lab_3_4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/bin/Debug/net8.0/Lab_3_4.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/bin/Debug/net8.0/Lab_3_4.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/bin/Debug/net8.0/matrix.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/matrixOne.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/matrixTwo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/obj/Debug/net8.0/Lab_3_4.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/obj/Debug/net8.0/Lab_3_4.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/obj/Debug/net8.0/Lab_3_4.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/obj/Debug/net8.0/Lab_3_4.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/obj/Debug/net8.0/Lab_3_4.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/obj/Debug/net8.0/Lab_3_4.csproj.BuildWithSkipAnalyzers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/obj/Debug/net8.0/Lab_3_4.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/obj/Debug/net8.0/Lab_3_4.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/obj/Debug/net8.0/Lab_3_4.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/obj/Debug/net8.0/Lab_3_4.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/obj/Debug/net8.0/Lab_3_4.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/obj/Debug/net8.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/obj/Debug/net8.0/ref/Lab_3_4.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/obj/Debug/net8.0/refint/Lab_3_4.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/obj/Lab_3_4.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/obj/Lab_3_4.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/obj/Lab_3_4.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/result.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/vector.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/KaliuzhnyiOleh/Lab_3_4/vectorTwo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/A.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/B.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/Sum_and_Sub_Matrix.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/bin/Debug/net6.0/Sum_and_Sub_Matrix.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/bin/Debug/net6.0/Sum_and_Sub_Matrix.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/bin/Debug/net6.0/Sum_and_Sub_Matrix.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/bin/Debug/net6.0/Sum_and_Sub_Matrix.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/bin/Debug/net6.0/Sum_and_Sub_Matrix.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/obj/Debug/net6.0/Sum_and_Sub_Matrix.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/obj/Debug/net6.0/Sum_and_Sub_Matrix.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/obj/Debug/net6.0/Sum_and_Sub_Matrix.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/obj/Debug/net6.0/Sum_and_Sub_Matrix.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/obj/Debug/net6.0/Sum_and_Sub_Matrix.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/obj/Debug/net6.0/Sum_and_Sub_Matrix.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/obj/Debug/net6.0/Sum_and_Sub_Matrix.csproj.BuildWithSkipAnalyzers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/obj/Debug/net6.0/Sum_and_Sub_Matrix.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/obj/Debug/net6.0/Sum_and_Sub_Matrix.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/obj/Debug/net6.0/Sum_and_Sub_Matrix.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/obj/Debug/net6.0/Sum_and_Sub_Matrix.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/obj/Debug/net6.0/Sum_and_Sub_Matrix.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/obj/Debug/net6.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/obj/Debug/net6.0/ref/Sum_and_Sub_Matrix.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/obj/Debug/net6.0/refint/Sum_and_Sub_Matrix.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/obj/Sum_and_Sub_Matrix.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/obj/Sum_and_Sub_Matrix.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/obj/Sum_and_Sub_Matrix.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kravchuk/Matrix/Matrix/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kybukevych Matrix/Matrix.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kybukevych Matrix/Matrix/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kybukevych Matrix/Matrix/Matrix.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kybukevych Matrix/Matrix/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kybukevych Matrix/Matrix/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kybukevych Matrix/Matrix/bin/Debug/Matrix.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kybukevych Matrix/Matrix/bin/Debug/Matrix.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kybukevych Matrix/Matrix/bin/Debug/Matrix.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kybukevych Matrix/Matrix/bin/Debug/matrix1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kybukevych Matrix/Matrix/bin/Debug/matrix2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kybukevych Matrix/Matrix/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kybukevych Matrix/Matrix/obj/Debug/Matrix.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kybukevych Matrix/Matrix/obj/Debug/Matrix.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kybukevych Matrix/Matrix/obj/Debug/Matrix.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kybukevych Matrix/Matrix/obj/Debug/Matrix.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Kybukevych Matrix/Matrix/obj/Debug/Matrix.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Pasternak/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Pasternak/Matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Pasternak/SizeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Predko/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Predko/Matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Predko/MatrixComparisonException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Predko/Validate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Predko/matrixA.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Predko/matrixB.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Severylova/AddSub/AdditionalSubtraction.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Severylova/AddSub/AdditionalSubtraction/AddSub.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Severylova/AddSub/AdditionalSubtraction/AdditionalSubtraction.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Severylova/AddSub/AdditionalSubtraction/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Severylova/AddSub/AdditionalSubtraction/FIrstMatrix.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Severylova/AddSub/AdditionalSubtraction/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Severylova/AddSub/AdditionalSubtraction/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Severylova/AddSub/AdditionalSubtraction/SecondMatrix.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Severylova/AddSub/AdditionalSubtraction/bin/Debug/AdditionalSubtraction.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Severylova/AddSub/AdditionalSubtraction/bin/Debug/AdditionalSubtraction.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Severylova/AddSub/AdditionalSubtraction/bin/Debug/AdditionalSubtraction.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Severylova/AddSub/AdditionalSubtraction/obj/Debug/AdditionalSubtraction.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Severylova/AddSub/AdditionalSubtraction/obj/Debug/AdditionalSubtraction.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Severylova/AddSub/AdditionalSubtraction/obj/Debug/AdditionalSubtraction.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Severylova/AddSub/AdditionalSubtraction/obj/Debug/AdditionalSubtraction.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Severylova/AddSub/AdditionalSubtraction/obj/Debug/AdditionalSubtraction.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Severylova/AddSub/AdditionalSubtraction/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/MatrixAdd.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/bin/Debug/net8.0/MatrixAdd.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/bin/Debug/net8.0/MatrixAdd.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/bin/Debug/net8.0/MatrixAdd.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/bin/Debug/net8.0/MatrixAdd.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/bin/Debug/net8.0/MatrixAdd.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/matrix_first.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/matrix_second.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/obj/Debug/net8.0/MatrixAdd.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/obj/Debug/net8.0/MatrixAdd.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/obj/Debug/net8.0/MatrixAdd.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/obj/Debug/net8.0/MatrixAdd.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/obj/Debug/net8.0/MatrixAdd.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/obj/Debug/net8.0/MatrixAdd.csproj.BuildWithSkipAnalyzers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/obj/Debug/net8.0/MatrixAdd.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/obj/Debug/net8.0/MatrixAdd.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/obj/Debug/net8.0/MatrixAdd.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/obj/Debug/net8.0/MatrixAdd.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/obj/Debug/net8.0/MatrixAdd.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/obj/Debug/net8.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/obj/Debug/net8.0/ref/MatrixAdd.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/obj/Debug/net8.0/refint/MatrixAdd.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/obj/MatrixAdd.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/obj/MatrixAdd.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/obj/MatrixAdd.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/subtructMatrix.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MatrixAdd/MatrixAdd/sumMatrix.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/MutrixMultiply.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/bin/Debug/net8.0/MutrixMultiply.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/bin/Debug/net8.0/MutrixMultiply.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/bin/Debug/net8.0/MutrixMultiply.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/bin/Debug/net8.0/MutrixMultiply.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/bin/Debug/net8.0/MutrixMultiply.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/matrix_first.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/matrix_second.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/obj/Debug/net8.0/MutrixMultiply.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/obj/Debug/net8.0/MutrixMultiply.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/obj/Debug/net8.0/MutrixMultiply.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/obj/Debug/net8.0/MutrixMultiply.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/obj/Debug/net8.0/MutrixMultiply.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/obj/Debug/net8.0/MutrixMultiply.csproj.BuildWithSkipAnalyzers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/obj/Debug/net8.0/MutrixMultiply.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/obj/Debug/net8.0/MutrixMultiply.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/obj/Debug/net8.0/MutrixMultiply.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/obj/Debug/net8.0/MutrixMultiply.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/obj/Debug/net8.0/MutrixMultiply.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/obj/Debug/net8.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/obj/Debug/net8.0/ref/MutrixMultiply.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/obj/Debug/net8.0/refint/MutrixMultiply.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/obj/MutrixMultiply.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/obj/MutrixMultiply.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/obj/MutrixMultiply.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/MutrixMultiply/result.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix/Trushchak/MutrixMultiply/matrix_second.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2dbKryPaZ5pPGwMFlAudVYacMko" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/rostyslavpasternak/Desktop/pma_23_second",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be71862c-0844-46e6-9ca0-47ba5eb88c79" name="Changes" comment="" />
+      <created>1710271541582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710271541582</updated>
+      <workItem from="1710271542682" duration="411000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
