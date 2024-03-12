@@ -1,9 +1,0 @@
-D:\c# uni\matrices\matrices\bin\Debug\matrices.exe.config
-D:\c# uni\matrices\matrices\bin\Debug\matrices.exe
-D:\c# uni\matrices\matrices\bin\Debug\matrices.pdb
-D:\c# uni\matrices\matrices\obj\Debug\matrices.csproj.AssemblyReference.cache
-D:\c# uni\matrices\matrices\obj\Debug\matrices.csproj.CoreCompileInputs.cache
-D:\c# uni\matrices\matrices\obj\Debug\matrices.exe
-D:\c# uni\matrices\matrices\obj\Debug\matrices.pdb
-D:\c# uni\matrices\matrices\bin\Debug\matrix1.txt
-D:\c# uni\matrices\matrices\bin\Debug\matrix2.txt
