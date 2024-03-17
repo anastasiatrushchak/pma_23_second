@@ -1,0 +1,7 @@
+C:\Users\Златомира\source\repos\C#\Severylova-03\Bridge\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\Златомира\source\repos\C#\Severylova-03\Bridge\Bridge\bin\Debug\Bridge.exe
+C:\Users\Златомира\source\repos\C#\Severylova-03\Bridge\Bridge\bin\Debug\Bridge.pdb
+C:\Users\Златомира\source\repos\C#\Severylova-03\Bridge\Bridge\obj\Debug\Bridge.csproj.AssemblyReference.cache
+C:\Users\Златомира\source\repos\C#\Severylova-03\Bridge\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\Златомира\source\repos\C#\Severylova-03\Bridge\Bridge\obj\Debug\Bridge.exe
+C:\Users\Златомира\source\repos\C#\Severylova-03\Bridge\Bridge\obj\Debug\Bridge.pdb
