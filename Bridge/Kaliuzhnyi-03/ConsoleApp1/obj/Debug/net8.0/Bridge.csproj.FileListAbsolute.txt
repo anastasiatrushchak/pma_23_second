@@ -1,0 +1,14 @@
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_5\ConsoleApp1\bin\Debug\net8.0\Bridge.exe
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_5\ConsoleApp1\bin\Debug\net8.0\Bridge.deps.json
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_5\ConsoleApp1\bin\Debug\net8.0\Bridge.runtimeconfig.json
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_5\ConsoleApp1\bin\Debug\net8.0\Bridge.dll
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_5\ConsoleApp1\bin\Debug\net8.0\Bridge.pdb
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_5\ConsoleApp1\obj\Debug\net8.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_5\ConsoleApp1\obj\Debug\net8.0\Bridge.AssemblyInfoInputs.cache
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_5\ConsoleApp1\obj\Debug\net8.0\Bridge.AssemblyInfo.cs
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_5\ConsoleApp1\obj\Debug\net8.0\Bridge.csproj.CoreCompileInputs.cache
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_5\ConsoleApp1\obj\Debug\net8.0\Bridge.dll
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_5\ConsoleApp1\obj\Debug\net8.0\refint\Bridge.dll
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_5\ConsoleApp1\obj\Debug\net8.0\Bridge.pdb
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_5\ConsoleApp1\obj\Debug\net8.0\Bridge.genruntimeconfig.cache
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_5\ConsoleApp1\obj\Debug\net8.0\ref\Bridge.dll
