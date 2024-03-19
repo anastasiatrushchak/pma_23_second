@@ -1,0 +1,8 @@
+C:\Users\Asus\source\repos\Bridge.Khyshchenko\Bridge.Khyshchenko\bin\Debug\Bridge.Khyshchenko.exe.config
+C:\Users\Asus\source\repos\Bridge.Khyshchenko\Bridge.Khyshchenko\bin\Debug\Bridge.Khyshchenko.exe
+C:\Users\Asus\source\repos\Bridge.Khyshchenko\Bridge.Khyshchenko\bin\Debug\Bridge.Khyshchenko.pdb
+C:\Users\Asus\source\repos\Bridge.Khyshchenko\Bridge.Khyshchenko\obj\Debug\Bridge.Khyshchenko.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Bridge.Khyshchenko\Bridge.Khyshchenko\obj\Debug\Bridge.Khyshchenko.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\Bridge.Khyshchenko\Bridge.Khyshchenko\obj\Debug\Bridge.Khyshchenko.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Bridge.Khyshchenko\Bridge.Khyshchenko\obj\Debug\Bridge.Khyshchenko.exe
+C:\Users\Asus\source\repos\Bridge.Khyshchenko\Bridge.Khyshchenko\obj\Debug\Bridge.Khyshchenko.pdb
