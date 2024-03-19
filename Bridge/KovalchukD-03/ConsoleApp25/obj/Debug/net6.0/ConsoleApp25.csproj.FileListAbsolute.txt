@@ -1,0 +1,15 @@
+C:\Users\darko\source\repos\ConsoleApp25\bin\Debug\net6.0\ConsoleApp25.exe
+C:\Users\darko\source\repos\ConsoleApp25\bin\Debug\net6.0\ConsoleApp25.deps.json
+C:\Users\darko\source\repos\ConsoleApp25\bin\Debug\net6.0\ConsoleApp25.runtimeconfig.json
+C:\Users\darko\source\repos\ConsoleApp25\bin\Debug\net6.0\ConsoleApp25.dll
+C:\Users\darko\source\repos\ConsoleApp25\bin\Debug\net6.0\ConsoleApp25.pdb
+C:\Users\darko\source\repos\ConsoleApp25\obj\Debug\net6.0\ConsoleApp25.csproj.AssemblyReference.cache
+C:\Users\darko\source\repos\ConsoleApp25\obj\Debug\net6.0\ConsoleApp25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darko\source\repos\ConsoleApp25\obj\Debug\net6.0\ConsoleApp25.AssemblyInfoInputs.cache
+C:\Users\darko\source\repos\ConsoleApp25\obj\Debug\net6.0\ConsoleApp25.AssemblyInfo.cs
+C:\Users\darko\source\repos\ConsoleApp25\obj\Debug\net6.0\ConsoleApp25.csproj.CoreCompileInputs.cache
+C:\Users\darko\source\repos\ConsoleApp25\obj\Debug\net6.0\ConsoleApp25.dll
+C:\Users\darko\source\repos\ConsoleApp25\obj\Debug\net6.0\refint\ConsoleApp25.dll
+C:\Users\darko\source\repos\ConsoleApp25\obj\Debug\net6.0\ConsoleApp25.pdb
+C:\Users\darko\source\repos\ConsoleApp25\obj\Debug\net6.0\ConsoleApp25.genruntimeconfig.cache
+C:\Users\darko\source\repos\ConsoleApp25\obj\Debug\net6.0\ref\ConsoleApp25.dll
