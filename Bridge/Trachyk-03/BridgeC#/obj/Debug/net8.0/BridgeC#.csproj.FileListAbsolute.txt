@@ -1,0 +1,14 @@
+D:\Максим диск D\Універ\2 курс\Програмування C#\BridgeC#\BridgeC#\bin\Debug\net8.0\BridgeC#.exe
+D:\Максим диск D\Універ\2 курс\Програмування C#\BridgeC#\BridgeC#\bin\Debug\net8.0\BridgeC#.deps.json
+D:\Максим диск D\Універ\2 курс\Програмування C#\BridgeC#\BridgeC#\bin\Debug\net8.0\BridgeC#.runtimeconfig.json
+D:\Максим диск D\Універ\2 курс\Програмування C#\BridgeC#\BridgeC#\bin\Debug\net8.0\BridgeC#.dll
+D:\Максим диск D\Універ\2 курс\Програмування C#\BridgeC#\BridgeC#\bin\Debug\net8.0\BridgeC#.pdb
+D:\Максим диск D\Універ\2 курс\Програмування C#\BridgeC#\BridgeC#\obj\Debug\net8.0\BridgeC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Максим диск D\Універ\2 курс\Програмування C#\BridgeC#\BridgeC#\obj\Debug\net8.0\BridgeC#.AssemblyInfoInputs.cache
+D:\Максим диск D\Універ\2 курс\Програмування C#\BridgeC#\BridgeC#\obj\Debug\net8.0\BridgeC#.AssemblyInfo.cs
+D:\Максим диск D\Універ\2 курс\Програмування C#\BridgeC#\BridgeC#\obj\Debug\net8.0\BridgeC#.csproj.CoreCompileInputs.cache
+D:\Максим диск D\Універ\2 курс\Програмування C#\BridgeC#\BridgeC#\obj\Debug\net8.0\BridgeC#.dll
+D:\Максим диск D\Універ\2 курс\Програмування C#\BridgeC#\BridgeC#\obj\Debug\net8.0\refint\BridgeC#.dll
+D:\Максим диск D\Універ\2 курс\Програмування C#\BridgeC#\BridgeC#\obj\Debug\net8.0\BridgeC#.pdb
+D:\Максим диск D\Універ\2 курс\Програмування C#\BridgeC#\BridgeC#\obj\Debug\net8.0\BridgeC#.genruntimeconfig.cache
+D:\Максим диск D\Універ\2 курс\Програмування C#\BridgeC#\BridgeC#\obj\Debug\net8.0\ref\BridgeC#.dll
