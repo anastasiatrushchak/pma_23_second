@@ -1,0 +1,7 @@
+D:\c# uni\bridge\bridge\bridge\bin\Debug\bridge.exe.config
+D:\c# uni\bridge\bridge\bridge\bin\Debug\bridge.exe
+D:\c# uni\bridge\bridge\bridge\bin\Debug\bridge.pdb
+D:\c# uni\bridge\bridge\bridge\obj\Debug\bridge.csproj.AssemblyReference.cache
+D:\c# uni\bridge\bridge\bridge\obj\Debug\bridge.csproj.CoreCompileInputs.cache
+D:\c# uni\bridge\bridge\bridge\obj\Debug\bridge.exe
+D:\c# uni\bridge\bridge\bridge\obj\Debug\bridge.pdb

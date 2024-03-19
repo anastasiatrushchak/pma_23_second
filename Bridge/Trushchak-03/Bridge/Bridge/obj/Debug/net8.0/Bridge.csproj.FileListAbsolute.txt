@@ -1,0 +1,14 @@
+D:\універ!\sharping\Bridge\Bridge\bin\Debug\net8.0\Bridge.exe
+D:\універ!\sharping\Bridge\Bridge\bin\Debug\net8.0\Bridge.deps.json
+D:\універ!\sharping\Bridge\Bridge\bin\Debug\net8.0\Bridge.runtimeconfig.json
+D:\універ!\sharping\Bridge\Bridge\bin\Debug\net8.0\Bridge.dll
+D:\універ!\sharping\Bridge\Bridge\bin\Debug\net8.0\Bridge.pdb
+D:\універ!\sharping\Bridge\Bridge\obj\Debug\net8.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+D:\універ!\sharping\Bridge\Bridge\obj\Debug\net8.0\Bridge.AssemblyInfoInputs.cache
+D:\універ!\sharping\Bridge\Bridge\obj\Debug\net8.0\Bridge.AssemblyInfo.cs
+D:\універ!\sharping\Bridge\Bridge\obj\Debug\net8.0\Bridge.csproj.CoreCompileInputs.cache
+D:\універ!\sharping\Bridge\Bridge\obj\Debug\net8.0\Bridge.dll
+D:\універ!\sharping\Bridge\Bridge\obj\Debug\net8.0\refint\Bridge.dll
+D:\універ!\sharping\Bridge\Bridge\obj\Debug\net8.0\Bridge.pdb
+D:\універ!\sharping\Bridge\Bridge\obj\Debug\net8.0\Bridge.genruntimeconfig.cache
+D:\універ!\sharping\Bridge\Bridge\obj\Debug\net8.0\ref\Bridge.dll
