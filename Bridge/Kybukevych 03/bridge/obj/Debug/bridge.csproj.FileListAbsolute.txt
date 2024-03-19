@@ -1,0 +1,7 @@
+C:\Users\Kate\source\repos\bridge\bridge\obj\Debug\bridge.csproj.AssemblyReference.cache
+C:\Users\Kate\source\repos\bridge\bridge\obj\Debug\bridge.csproj.CoreCompileInputs.cache
+C:\Users\Kate\source\repos\bridge\bridge\bin\Debug\bridge.exe.config
+C:\Users\Kate\source\repos\bridge\bridge\bin\Debug\bridge.exe
+C:\Users\Kate\source\repos\bridge\bridge\bin\Debug\bridge.pdb
+C:\Users\Kate\source\repos\bridge\bridge\obj\Debug\bridge.exe
+C:\Users\Kate\source\repos\bridge\bridge\obj\Debug\bridge.pdb
