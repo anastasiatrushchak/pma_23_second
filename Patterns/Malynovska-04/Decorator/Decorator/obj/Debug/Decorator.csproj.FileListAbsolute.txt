@@ -1,0 +1,7 @@
+D:\c# uni\Нова папка\Decorator\Decorator\bin\Debug\Decorator.exe.config
+D:\c# uni\Нова папка\Decorator\Decorator\bin\Debug\Decorator.exe
+D:\c# uni\Нова папка\Decorator\Decorator\bin\Debug\Decorator.pdb
+D:\c# uni\Нова папка\Decorator\Decorator\obj\Debug\Decorator.csproj.AssemblyReference.cache
+D:\c# uni\Нова папка\Decorator\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+D:\c# uni\Нова папка\Decorator\Decorator\obj\Debug\Decorator.exe
+D:\c# uni\Нова папка\Decorator\Decorator\obj\Debug\Decorator.pdb
