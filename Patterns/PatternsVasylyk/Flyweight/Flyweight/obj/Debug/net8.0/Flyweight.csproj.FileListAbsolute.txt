@@ -1,0 +1,14 @@
+/Users/nasta/RiderProjects/Flyweight/Flyweight/bin/Debug/net8.0/Flyweight
+/Users/nasta/RiderProjects/Flyweight/Flyweight/bin/Debug/net8.0/Flyweight.deps.json
+/Users/nasta/RiderProjects/Flyweight/Flyweight/bin/Debug/net8.0/Flyweight.runtimeconfig.json
+/Users/nasta/RiderProjects/Flyweight/Flyweight/bin/Debug/net8.0/Flyweight.dll
+/Users/nasta/RiderProjects/Flyweight/Flyweight/bin/Debug/net8.0/Flyweight.pdb
+/Users/nasta/RiderProjects/Flyweight/Flyweight/obj/Debug/net8.0/Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nasta/RiderProjects/Flyweight/Flyweight/obj/Debug/net8.0/Flyweight.AssemblyInfoInputs.cache
+/Users/nasta/RiderProjects/Flyweight/Flyweight/obj/Debug/net8.0/Flyweight.AssemblyInfo.cs
+/Users/nasta/RiderProjects/Flyweight/Flyweight/obj/Debug/net8.0/Flyweight.csproj.CoreCompileInputs.cache
+/Users/nasta/RiderProjects/Flyweight/Flyweight/obj/Debug/net8.0/Flyweight.dll
+/Users/nasta/RiderProjects/Flyweight/Flyweight/obj/Debug/net8.0/refint/Flyweight.dll
+/Users/nasta/RiderProjects/Flyweight/Flyweight/obj/Debug/net8.0/Flyweight.pdb
+/Users/nasta/RiderProjects/Flyweight/Flyweight/obj/Debug/net8.0/Flyweight.genruntimeconfig.cache
+/Users/nasta/RiderProjects/Flyweight/Flyweight/obj/Debug/net8.0/ref/Flyweight.dll
