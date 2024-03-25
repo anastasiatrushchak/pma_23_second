@@ -1,0 +1,7 @@
+C:\Users\Златомира\source\repos\C#\Severylova-05\PatternBuilder\PatternBuilder\bin\Debug\PatternBuilder.exe.config
+C:\Users\Златомира\source\repos\C#\Severylova-05\PatternBuilder\PatternBuilder\bin\Debug\PatternBuilder.exe
+C:\Users\Златомира\source\repos\C#\Severylova-05\PatternBuilder\PatternBuilder\bin\Debug\PatternBuilder.pdb
+C:\Users\Златомира\source\repos\C#\Severylova-05\PatternBuilder\PatternBuilder\obj\Debug\PatternBuilder.csproj.AssemblyReference.cache
+C:\Users\Златомира\source\repos\C#\Severylova-05\PatternBuilder\PatternBuilder\obj\Debug\PatternBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Златомира\source\repos\C#\Severylova-05\PatternBuilder\PatternBuilder\obj\Debug\PatternBuilder.exe
+C:\Users\Златомира\source\repos\C#\Severylova-05\PatternBuilder\PatternBuilder\obj\Debug\PatternBuilder.pdb
