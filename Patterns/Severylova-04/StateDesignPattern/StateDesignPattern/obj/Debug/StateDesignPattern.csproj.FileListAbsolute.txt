@@ -1,0 +1,7 @@
+C:\Users\Златомира\source\repos\C#\Severylova-05\StateDesignPattern\StateDesignPattern\bin\Debug\StateDesignPattern.exe.config
+C:\Users\Златомира\source\repos\C#\Severylova-05\StateDesignPattern\StateDesignPattern\bin\Debug\StateDesignPattern.exe
+C:\Users\Златомира\source\repos\C#\Severylova-05\StateDesignPattern\StateDesignPattern\bin\Debug\StateDesignPattern.pdb
+C:\Users\Златомира\source\repos\C#\Severylova-05\StateDesignPattern\StateDesignPattern\obj\Debug\StateDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Златомира\source\repos\C#\Severylova-05\StateDesignPattern\StateDesignPattern\obj\Debug\StateDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Златомира\source\repos\C#\Severylova-05\StateDesignPattern\StateDesignPattern\obj\Debug\StateDesignPattern.exe
+C:\Users\Златомира\source\repos\C#\Severylova-05\StateDesignPattern\StateDesignPattern\obj\Debug\StateDesignPattern.pdb
