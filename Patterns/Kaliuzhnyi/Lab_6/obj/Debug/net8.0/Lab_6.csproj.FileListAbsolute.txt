@@ -1,0 +1,14 @@
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_6\Lab_6\obj\Debug\net8.0\Lab_6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_6\Lab_6\obj\Debug\net8.0\Lab_6.AssemblyInfoInputs.cache
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_6\Lab_6\obj\Debug\net8.0\Lab_6.AssemblyInfo.cs
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_6\Lab_6\obj\Debug\net8.0\Lab_6.csproj.CoreCompileInputs.cache
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_6\Lab_6\bin\Debug\net8.0\Lab_6.exe
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_6\Lab_6\bin\Debug\net8.0\Lab_6.deps.json
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_6\Lab_6\bin\Debug\net8.0\Lab_6.runtimeconfig.json
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_6\Lab_6\bin\Debug\net8.0\Lab_6.dll
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_6\Lab_6\bin\Debug\net8.0\Lab_6.pdb
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_6\Lab_6\obj\Debug\net8.0\Lab_6.dll
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_6\Lab_6\obj\Debug\net8.0\refint\Lab_6.dll
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_6\Lab_6\obj\Debug\net8.0\Lab_6.pdb
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_6\Lab_6\obj\Debug\net8.0\Lab_6.genruntimeconfig.cache
+E:\Навчання_4_семестр\Програмування\Лабораторні\Lab_6\Lab_6\obj\Debug\net8.0\ref\Lab_6.dll
