@@ -1,0 +1,14 @@
+/Users/nasta/RiderProjects/Prototype/Prototype/bin/Debug/net8.0/Prototype
+/Users/nasta/RiderProjects/Prototype/Prototype/bin/Debug/net8.0/Prototype.deps.json
+/Users/nasta/RiderProjects/Prototype/Prototype/bin/Debug/net8.0/Prototype.runtimeconfig.json
+/Users/nasta/RiderProjects/Prototype/Prototype/bin/Debug/net8.0/Prototype.dll
+/Users/nasta/RiderProjects/Prototype/Prototype/bin/Debug/net8.0/Prototype.pdb
+/Users/nasta/RiderProjects/Prototype/Prototype/obj/Debug/net8.0/Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nasta/RiderProjects/Prototype/Prototype/obj/Debug/net8.0/Prototype.AssemblyInfoInputs.cache
+/Users/nasta/RiderProjects/Prototype/Prototype/obj/Debug/net8.0/Prototype.AssemblyInfo.cs
+/Users/nasta/RiderProjects/Prototype/Prototype/obj/Debug/net8.0/Prototype.csproj.CoreCompileInputs.cache
+/Users/nasta/RiderProjects/Prototype/Prototype/obj/Debug/net8.0/Prototype.dll
+/Users/nasta/RiderProjects/Prototype/Prototype/obj/Debug/net8.0/refint/Prototype.dll
+/Users/nasta/RiderProjects/Prototype/Prototype/obj/Debug/net8.0/Prototype.pdb
+/Users/nasta/RiderProjects/Prototype/Prototype/obj/Debug/net8.0/Prototype.genruntimeconfig.cache
+/Users/nasta/RiderProjects/Prototype/Prototype/obj/Debug/net8.0/ref/Prototype.dll

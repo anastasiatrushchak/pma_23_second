@@ -1,0 +1,7 @@
+D:\c# uni\Нова папка\Singletone\Singletone\bin\Debug\Singletone.exe.config
+D:\c# uni\Нова папка\Singletone\Singletone\bin\Debug\Singletone.exe
+D:\c# uni\Нова папка\Singletone\Singletone\bin\Debug\Singletone.pdb
+D:\c# uni\Нова папка\Singletone\Singletone\obj\Debug\Singletone.csproj.AssemblyReference.cache
+D:\c# uni\Нова папка\Singletone\Singletone\obj\Debug\Singletone.csproj.CoreCompileInputs.cache
+D:\c# uni\Нова папка\Singletone\Singletone\obj\Debug\Singletone.exe
+D:\c# uni\Нова папка\Singletone\Singletone\obj\Debug\Singletone.pdb

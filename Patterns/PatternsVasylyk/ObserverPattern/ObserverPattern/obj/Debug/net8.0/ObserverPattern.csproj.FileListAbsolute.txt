@@ -1,0 +1,14 @@
+/Users/nasta/RiderProjects/ObserverPattern/ObserverPattern/bin/Debug/net8.0/ObserverPattern
+/Users/nasta/RiderProjects/ObserverPattern/ObserverPattern/bin/Debug/net8.0/ObserverPattern.deps.json
+/Users/nasta/RiderProjects/ObserverPattern/ObserverPattern/bin/Debug/net8.0/ObserverPattern.runtimeconfig.json
+/Users/nasta/RiderProjects/ObserverPattern/ObserverPattern/bin/Debug/net8.0/ObserverPattern.dll
+/Users/nasta/RiderProjects/ObserverPattern/ObserverPattern/bin/Debug/net8.0/ObserverPattern.pdb
+/Users/nasta/RiderProjects/ObserverPattern/ObserverPattern/obj/Debug/net8.0/ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nasta/RiderProjects/ObserverPattern/ObserverPattern/obj/Debug/net8.0/ObserverPattern.AssemblyInfoInputs.cache
+/Users/nasta/RiderProjects/ObserverPattern/ObserverPattern/obj/Debug/net8.0/ObserverPattern.AssemblyInfo.cs
+/Users/nasta/RiderProjects/ObserverPattern/ObserverPattern/obj/Debug/net8.0/ObserverPattern.csproj.CoreCompileInputs.cache
+/Users/nasta/RiderProjects/ObserverPattern/ObserverPattern/obj/Debug/net8.0/ObserverPattern.dll
+/Users/nasta/RiderProjects/ObserverPattern/ObserverPattern/obj/Debug/net8.0/refint/ObserverPattern.dll
+/Users/nasta/RiderProjects/ObserverPattern/ObserverPattern/obj/Debug/net8.0/ObserverPattern.pdb
+/Users/nasta/RiderProjects/ObserverPattern/ObserverPattern/obj/Debug/net8.0/ObserverPattern.genruntimeconfig.cache
+/Users/nasta/RiderProjects/ObserverPattern/ObserverPattern/obj/Debug/net8.0/ref/ObserverPattern.dll

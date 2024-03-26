@@ -1,0 +1,7 @@
+C:\Users\Златомира\source\repos\C#\Severylova-05\PatternAdapter\PatternAdapter\obj\Debug\PatternAdapter.csproj.AssemblyReference.cache
+C:\Users\Златомира\source\repos\C#\Severylova-05\PatternAdapter\PatternAdapter\obj\Debug\PatternAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Златомира\source\repos\C#\Severylova-05\PatternAdapter\PatternAdapter\bin\Debug\PatternAdapter.exe.config
+C:\Users\Златомира\source\repos\C#\Severylova-05\PatternAdapter\PatternAdapter\bin\Debug\PatternAdapter.exe
+C:\Users\Златомира\source\repos\C#\Severylova-05\PatternAdapter\PatternAdapter\bin\Debug\PatternAdapter.pdb
+C:\Users\Златомира\source\repos\C#\Severylova-05\PatternAdapter\PatternAdapter\obj\Debug\PatternAdapter.exe
+C:\Users\Златомира\source\repos\C#\Severylova-05\PatternAdapter\PatternAdapter\obj\Debug\PatternAdapter.pdb

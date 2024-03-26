@@ -1,0 +1,14 @@
+C:\Users\olesp\source\repos\Memento\Memento\bin\Debug\net8.0\Memento.exe
+C:\Users\olesp\source\repos\Memento\Memento\bin\Debug\net8.0\Memento.deps.json
+C:\Users\olesp\source\repos\Memento\Memento\bin\Debug\net8.0\Memento.runtimeconfig.json
+C:\Users\olesp\source\repos\Memento\Memento\bin\Debug\net8.0\Memento.dll
+C:\Users\olesp\source\repos\Memento\Memento\bin\Debug\net8.0\Memento.pdb
+C:\Users\olesp\source\repos\Memento\Memento\obj\Debug\net8.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olesp\source\repos\Memento\Memento\obj\Debug\net8.0\Memento.AssemblyInfoInputs.cache
+C:\Users\olesp\source\repos\Memento\Memento\obj\Debug\net8.0\Memento.AssemblyInfo.cs
+C:\Users\olesp\source\repos\Memento\Memento\obj\Debug\net8.0\Memento.csproj.CoreCompileInputs.cache
+C:\Users\olesp\source\repos\Memento\Memento\obj\Debug\net8.0\Memento.dll
+C:\Users\olesp\source\repos\Memento\Memento\obj\Debug\net8.0\refint\Memento.dll
+C:\Users\olesp\source\repos\Memento\Memento\obj\Debug\net8.0\Memento.pdb
+C:\Users\olesp\source\repos\Memento\Memento\obj\Debug\net8.0\Memento.genruntimeconfig.cache
+C:\Users\olesp\source\repos\Memento\Memento\obj\Debug\net8.0\ref\Memento.dll

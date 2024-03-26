@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternBuilder", "PatternBuilder\PatternBuilder.csproj", "{49B21E33-4C47-4F31-A2E1-FCE9D14B88CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49B21E33-4C47-4F31-A2E1-FCE9D14B88CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B21E33-4C47-4F31-A2E1-FCE9D14B88CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B21E33-4C47-4F31-A2E1-FCE9D14B88CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B21E33-4C47-4F31-A2E1-FCE9D14B88CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFB47BE3-FBE4-4832-8090-6EBB20FE8AE7}
+	EndGlobalSection
+EndGlobal

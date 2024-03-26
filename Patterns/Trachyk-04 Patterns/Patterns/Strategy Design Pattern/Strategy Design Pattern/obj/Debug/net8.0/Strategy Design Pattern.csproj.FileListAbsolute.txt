@@ -1,0 +1,14 @@
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Strategy Design Pattern\Strategy Design Pattern\bin\Debug\net8.0\Strategy Design Pattern.exe
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Strategy Design Pattern\Strategy Design Pattern\bin\Debug\net8.0\Strategy Design Pattern.deps.json
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Strategy Design Pattern\Strategy Design Pattern\bin\Debug\net8.0\Strategy Design Pattern.runtimeconfig.json
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Strategy Design Pattern\Strategy Design Pattern\bin\Debug\net8.0\Strategy Design Pattern.dll
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Strategy Design Pattern\Strategy Design Pattern\bin\Debug\net8.0\Strategy Design Pattern.pdb
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Strategy Design Pattern\Strategy Design Pattern\obj\Debug\net8.0\Strategy Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Strategy Design Pattern\Strategy Design Pattern\obj\Debug\net8.0\Strategy Design Pattern.AssemblyInfoInputs.cache
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Strategy Design Pattern\Strategy Design Pattern\obj\Debug\net8.0\Strategy Design Pattern.AssemblyInfo.cs
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Strategy Design Pattern\Strategy Design Pattern\obj\Debug\net8.0\Strategy Design Pattern.csproj.CoreCompileInputs.cache
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Strategy Design Pattern\Strategy Design Pattern\obj\Debug\net8.0\Strategy Design Pattern.dll
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Strategy Design Pattern\Strategy Design Pattern\obj\Debug\net8.0\refint\Strategy Design Pattern.dll
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Strategy Design Pattern\Strategy Design Pattern\obj\Debug\net8.0\Strategy Design Pattern.pdb
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Strategy Design Pattern\Strategy Design Pattern\obj\Debug\net8.0\Strategy Design Pattern.genruntimeconfig.cache
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Strategy Design Pattern\Strategy Design Pattern\obj\Debug\net8.0\ref\Strategy Design Pattern.dll

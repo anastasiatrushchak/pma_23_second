@@ -1,0 +1,15 @@
+C:\Users\kravc\source\repos\Fasad\Fasad\bin\Debug\net6.0\Fasad.exe
+C:\Users\kravc\source\repos\Fasad\Fasad\bin\Debug\net6.0\Fasad.deps.json
+C:\Users\kravc\source\repos\Fasad\Fasad\bin\Debug\net6.0\Fasad.runtimeconfig.json
+C:\Users\kravc\source\repos\Fasad\Fasad\bin\Debug\net6.0\Fasad.dll
+C:\Users\kravc\source\repos\Fasad\Fasad\bin\Debug\net6.0\Fasad.pdb
+C:\Users\kravc\source\repos\Fasad\Fasad\obj\Debug\net6.0\Fasad.csproj.AssemblyReference.cache
+C:\Users\kravc\source\repos\Fasad\Fasad\obj\Debug\net6.0\Fasad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kravc\source\repos\Fasad\Fasad\obj\Debug\net6.0\Fasad.AssemblyInfoInputs.cache
+C:\Users\kravc\source\repos\Fasad\Fasad\obj\Debug\net6.0\Fasad.AssemblyInfo.cs
+C:\Users\kravc\source\repos\Fasad\Fasad\obj\Debug\net6.0\Fasad.csproj.CoreCompileInputs.cache
+C:\Users\kravc\source\repos\Fasad\Fasad\obj\Debug\net6.0\Fasad.dll
+C:\Users\kravc\source\repos\Fasad\Fasad\obj\Debug\net6.0\refint\Fasad.dll
+C:\Users\kravc\source\repos\Fasad\Fasad\obj\Debug\net6.0\Fasad.pdb
+C:\Users\kravc\source\repos\Fasad\Fasad\obj\Debug\net6.0\Fasad.genruntimeconfig.cache
+C:\Users\kravc\source\repos\Fasad\Fasad\obj\Debug\net6.0\ref\Fasad.dll

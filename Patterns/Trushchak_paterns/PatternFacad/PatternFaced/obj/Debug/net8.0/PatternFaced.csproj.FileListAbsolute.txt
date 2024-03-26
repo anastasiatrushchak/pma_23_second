@@ -1,0 +1,14 @@
+D:\універ!\sharping\PatternFaced\PatternFaced\bin\Debug\net8.0\PatternFaced.exe
+D:\універ!\sharping\PatternFaced\PatternFaced\bin\Debug\net8.0\PatternFaced.deps.json
+D:\універ!\sharping\PatternFaced\PatternFaced\bin\Debug\net8.0\PatternFaced.runtimeconfig.json
+D:\універ!\sharping\PatternFaced\PatternFaced\bin\Debug\net8.0\PatternFaced.dll
+D:\універ!\sharping\PatternFaced\PatternFaced\bin\Debug\net8.0\PatternFaced.pdb
+D:\універ!\sharping\PatternFaced\PatternFaced\obj\Debug\net8.0\PatternFaced.GeneratedMSBuildEditorConfig.editorconfig
+D:\універ!\sharping\PatternFaced\PatternFaced\obj\Debug\net8.0\PatternFaced.AssemblyInfoInputs.cache
+D:\універ!\sharping\PatternFaced\PatternFaced\obj\Debug\net8.0\PatternFaced.AssemblyInfo.cs
+D:\універ!\sharping\PatternFaced\PatternFaced\obj\Debug\net8.0\PatternFaced.csproj.CoreCompileInputs.cache
+D:\універ!\sharping\PatternFaced\PatternFaced\obj\Debug\net8.0\PatternFaced.dll
+D:\універ!\sharping\PatternFaced\PatternFaced\obj\Debug\net8.0\refint\PatternFaced.dll
+D:\універ!\sharping\PatternFaced\PatternFaced\obj\Debug\net8.0\PatternFaced.pdb
+D:\універ!\sharping\PatternFaced\PatternFaced\obj\Debug\net8.0\PatternFaced.genruntimeconfig.cache
+D:\універ!\sharping\PatternFaced\PatternFaced\obj\Debug\net8.0\ref\PatternFaced.dll
