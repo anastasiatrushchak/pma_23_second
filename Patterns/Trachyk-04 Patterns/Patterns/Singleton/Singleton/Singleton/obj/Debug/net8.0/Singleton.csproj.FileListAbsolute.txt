@@ -1,0 +1,14 @@
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Singleton\Singleton\Singleton\bin\Debug\net8.0\Singleton.exe
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Singleton\Singleton\Singleton\bin\Debug\net8.0\Singleton.deps.json
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Singleton\Singleton\Singleton\bin\Debug\net8.0\Singleton.runtimeconfig.json
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Singleton\Singleton\Singleton\bin\Debug\net8.0\Singleton.dll
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Singleton\Singleton\Singleton\bin\Debug\net8.0\Singleton.pdb
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Singleton\Singleton\Singleton\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Singleton\Singleton\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Singleton\Singleton\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Singleton\Singleton\Singleton\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Singleton\Singleton\Singleton\obj\Debug\net8.0\Singleton.dll
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Singleton\Singleton\Singleton\obj\Debug\net8.0\refint\Singleton.dll
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Singleton\Singleton\Singleton\obj\Debug\net8.0\Singleton.pdb
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Singleton\Singleton\Singleton\obj\Debug\net8.0\Singleton.genruntimeconfig.cache
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk\Patterns\Singleton\Singleton\Singleton\obj\Debug\net8.0\ref\Singleton.dll
