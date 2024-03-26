@@ -1,0 +1,14 @@
+D:\універ!\sharping\pattern\pattern\bin\Debug\net8.0\pattern.exe
+D:\універ!\sharping\pattern\pattern\bin\Debug\net8.0\pattern.deps.json
+D:\універ!\sharping\pattern\pattern\bin\Debug\net8.0\pattern.runtimeconfig.json
+D:\універ!\sharping\pattern\pattern\bin\Debug\net8.0\pattern.dll
+D:\універ!\sharping\pattern\pattern\bin\Debug\net8.0\pattern.pdb
+D:\універ!\sharping\pattern\pattern\obj\Debug\net8.0\pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\універ!\sharping\pattern\pattern\obj\Debug\net8.0\pattern.AssemblyInfoInputs.cache
+D:\універ!\sharping\pattern\pattern\obj\Debug\net8.0\pattern.AssemblyInfo.cs
+D:\універ!\sharping\pattern\pattern\obj\Debug\net8.0\pattern.csproj.CoreCompileInputs.cache
+D:\універ!\sharping\pattern\pattern\obj\Debug\net8.0\pattern.dll
+D:\універ!\sharping\pattern\pattern\obj\Debug\net8.0\refint\pattern.dll
+D:\універ!\sharping\pattern\pattern\obj\Debug\net8.0\pattern.pdb
+D:\універ!\sharping\pattern\pattern\obj\Debug\net8.0\pattern.genruntimeconfig.cache
+D:\універ!\sharping\pattern\pattern\obj\Debug\net8.0\ref\pattern.dll
