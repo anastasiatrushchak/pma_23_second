@@ -1,0 +1,14 @@
+/Users/nasta/RiderProjects/LinkedList/LinkedList/bin/Debug/net8.0/LinkedList
+/Users/nasta/RiderProjects/LinkedList/LinkedList/bin/Debug/net8.0/LinkedList.deps.json
+/Users/nasta/RiderProjects/LinkedList/LinkedList/bin/Debug/net8.0/LinkedList.runtimeconfig.json
+/Users/nasta/RiderProjects/LinkedList/LinkedList/bin/Debug/net8.0/LinkedList.dll
+/Users/nasta/RiderProjects/LinkedList/LinkedList/bin/Debug/net8.0/LinkedList.pdb
+/Users/nasta/RiderProjects/LinkedList/LinkedList/obj/Debug/net8.0/LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nasta/RiderProjects/LinkedList/LinkedList/obj/Debug/net8.0/LinkedList.AssemblyInfoInputs.cache
+/Users/nasta/RiderProjects/LinkedList/LinkedList/obj/Debug/net8.0/LinkedList.AssemblyInfo.cs
+/Users/nasta/RiderProjects/LinkedList/LinkedList/obj/Debug/net8.0/LinkedList.csproj.CoreCompileInputs.cache
+/Users/nasta/RiderProjects/LinkedList/LinkedList/obj/Debug/net8.0/LinkedList.dll
+/Users/nasta/RiderProjects/LinkedList/LinkedList/obj/Debug/net8.0/refint/LinkedList.dll
+/Users/nasta/RiderProjects/LinkedList/LinkedList/obj/Debug/net8.0/LinkedList.pdb
+/Users/nasta/RiderProjects/LinkedList/LinkedList/obj/Debug/net8.0/LinkedList.genruntimeconfig.cache
+/Users/nasta/RiderProjects/LinkedList/LinkedList/obj/Debug/net8.0/ref/LinkedList.dll
