@@ -1,0 +1,14 @@
+C:\Users\Kate\source\repos\Kybukevych\Kybukevych\bin\Debug\net8.0\Kybukevych.exe
+C:\Users\Kate\source\repos\Kybukevych\Kybukevych\bin\Debug\net8.0\Kybukevych.deps.json
+C:\Users\Kate\source\repos\Kybukevych\Kybukevych\bin\Debug\net8.0\Kybukevych.runtimeconfig.json
+C:\Users\Kate\source\repos\Kybukevych\Kybukevych\bin\Debug\net8.0\Kybukevych.dll
+C:\Users\Kate\source\repos\Kybukevych\Kybukevych\bin\Debug\net8.0\Kybukevych.pdb
+C:\Users\Kate\source\repos\Kybukevych\Kybukevych\obj\Debug\net8.0\Kybukevych.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kate\source\repos\Kybukevych\Kybukevych\obj\Debug\net8.0\Kybukevych.AssemblyInfoInputs.cache
+C:\Users\Kate\source\repos\Kybukevych\Kybukevych\obj\Debug\net8.0\Kybukevych.AssemblyInfo.cs
+C:\Users\Kate\source\repos\Kybukevych\Kybukevych\obj\Debug\net8.0\Kybukevych.csproj.CoreCompileInputs.cache
+C:\Users\Kate\source\repos\Kybukevych\Kybukevych\obj\Debug\net8.0\Kybukevych.dll
+C:\Users\Kate\source\repos\Kybukevych\Kybukevych\obj\Debug\net8.0\refint\Kybukevych.dll
+C:\Users\Kate\source\repos\Kybukevych\Kybukevych\obj\Debug\net8.0\Kybukevych.pdb
+C:\Users\Kate\source\repos\Kybukevych\Kybukevych\obj\Debug\net8.0\Kybukevych.genruntimeconfig.cache
+C:\Users\Kate\source\repos\Kybukevych\Kybukevych\obj\Debug\net8.0\ref\Kybukevych.dll
