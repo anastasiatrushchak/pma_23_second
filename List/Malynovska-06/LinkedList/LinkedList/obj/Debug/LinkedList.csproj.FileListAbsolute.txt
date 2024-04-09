@@ -1,0 +1,7 @@
+D:\c# uni\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+D:\c# uni\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+D:\c# uni\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+D:\c# uni\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.AssemblyReference.cache
+D:\c# uni\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+D:\c# uni\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+D:\c# uni\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
