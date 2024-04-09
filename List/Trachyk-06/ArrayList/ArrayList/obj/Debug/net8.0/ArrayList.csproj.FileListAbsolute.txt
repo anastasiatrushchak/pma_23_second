@@ -1,0 +1,14 @@
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk-06\ArrayList\ArrayList\bin\Debug\net8.0\ArrayList.exe
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk-06\ArrayList\ArrayList\bin\Debug\net8.0\ArrayList.deps.json
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk-06\ArrayList\ArrayList\bin\Debug\net8.0\ArrayList.runtimeconfig.json
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk-06\ArrayList\ArrayList\bin\Debug\net8.0\ArrayList.dll
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk-06\ArrayList\ArrayList\bin\Debug\net8.0\ArrayList.pdb
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk-06\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk-06\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfoInputs.cache
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk-06\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfo.cs
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk-06\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.csproj.CoreCompileInputs.cache
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk-06\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.dll
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk-06\ArrayList\ArrayList\obj\Debug\net8.0\refint\ArrayList.dll
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk-06\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.pdb
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk-06\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.genruntimeconfig.cache
+D:\Максим диск D\Універ\2 курс\Програмування C#\Trachyk-06\ArrayList\ArrayList\obj\Debug\net8.0\ref\ArrayList.dll
