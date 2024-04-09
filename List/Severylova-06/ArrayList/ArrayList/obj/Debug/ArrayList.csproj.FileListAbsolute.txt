@@ -1,0 +1,7 @@
+C:\Users\Златомира\source\repos\C#\Severylova-07\ArrayList\ArrayList\bin\Debug\ArrayList.exe.config
+C:\Users\Златомира\source\repos\C#\Severylova-07\ArrayList\ArrayList\bin\Debug\ArrayList.exe
+C:\Users\Златомира\source\repos\C#\Severylova-07\ArrayList\ArrayList\bin\Debug\ArrayList.pdb
+C:\Users\Златомира\source\repos\C#\Severylova-07\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.AssemblyReference.cache
+C:\Users\Златомира\source\repos\C#\Severylova-07\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Златомира\source\repos\C#\Severylova-07\ArrayList\ArrayList\obj\Debug\ArrayList.exe
+C:\Users\Златомира\source\repos\C#\Severylova-07\ArrayList\ArrayList\obj\Debug\ArrayList.pdb
