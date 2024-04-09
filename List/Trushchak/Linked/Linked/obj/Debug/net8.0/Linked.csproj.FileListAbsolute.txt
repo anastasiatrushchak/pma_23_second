@@ -1,0 +1,14 @@
+D:\універ!\sharping\Linked\Linked\bin\Debug\net8.0\Linked.exe
+D:\універ!\sharping\Linked\Linked\bin\Debug\net8.0\Linked.deps.json
+D:\універ!\sharping\Linked\Linked\bin\Debug\net8.0\Linked.runtimeconfig.json
+D:\універ!\sharping\Linked\Linked\bin\Debug\net8.0\Linked.dll
+D:\універ!\sharping\Linked\Linked\bin\Debug\net8.0\Linked.pdb
+D:\універ!\sharping\Linked\Linked\obj\Debug\net8.0\Linked.GeneratedMSBuildEditorConfig.editorconfig
+D:\універ!\sharping\Linked\Linked\obj\Debug\net8.0\Linked.AssemblyInfoInputs.cache
+D:\універ!\sharping\Linked\Linked\obj\Debug\net8.0\Linked.AssemblyInfo.cs
+D:\універ!\sharping\Linked\Linked\obj\Debug\net8.0\Linked.csproj.CoreCompileInputs.cache
+D:\універ!\sharping\Linked\Linked\obj\Debug\net8.0\Linked.dll
+D:\універ!\sharping\Linked\Linked\obj\Debug\net8.0\refint\Linked.dll
+D:\універ!\sharping\Linked\Linked\obj\Debug\net8.0\Linked.pdb
+D:\універ!\sharping\Linked\Linked\obj\Debug\net8.0\Linked.genruntimeconfig.cache
+D:\універ!\sharping\Linked\Linked\obj\Debug\net8.0\ref\Linked.dll
