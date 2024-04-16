@@ -1,0 +1,61 @@
+[
+  {
+    "parkingId": 23512351,
+    "location": "Lviv",
+    "capacity": 100,
+    "info": [
+      {
+        "identificatorId": "car_1",
+        "dataItem": {
+          "objectId": 561231278,
+          "effectimeFrom": "2023-01-01",
+          "effectiveTo": "2023-12-31",
+          "carInfo": {
+            "manufacturer": "Toyota",
+            "model": "Camry",
+            "year": 2020,
+            "color": "silver"
+          }
+        }
+        
+      },
+      {
+        "identificatorId": "car_2",
+        "dataItem": {
+          "objectId": 128491737,
+          "effectimeFrom": "2022-01-01",
+          "effectiveTo": "2022-12-31",
+          "carInfo": {
+            "manufacturer": "BMW",
+            "model": "X5",
+            "year": 2019,
+            "color": "black"
+          }
+        }
+        
+      }
+    ]
+  },
+  {
+    "parkingId": 12345123,
+    "location": "Kyiv",
+    "capacity": 150,
+    "info": [
+      {
+        "identificatorId": "car_3",
+        "dataItem": {
+          "objectId": 473818294,
+          "effectimeFrom": "2024-01-01",
+          "effectiveTo": "2024-12-31", 
+          "carInfo": {
+            "manufacturer": "Tesla",
+            "model": "Model S",
+            "year": 2022,
+            "color": "white"
+          }
+        }
+        
+      }
+    ]
+  }
+]
