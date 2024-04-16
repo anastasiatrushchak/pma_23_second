@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSomeClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SomeClass>
+    <identificatorId>some_identificator_8_number</identificatorId>
+    <dataItem>
+      <objectId>some_10_number_id</objectId>
+      <effectimeFrom>some_date_in_string</effectimeFrom>
+      <effectiveTo>some_date_in_string</effectiveTo>
+      <some_useless_stuff>add 3 string fields</some_useless_stuff>
+    </dataItem>
+    <info>
+      <InfoItem>
+        <Two_useless_fielsd>some Strings</Two_useless_fielsd>
+        <currentAt>some_date_in_string</currentAt>
+        <CurrentFrom>some_date_in_string</CurrentFrom>
+        <type>some_ string</type>
+        <three_more_useless_fields>
+          <string>useless fild 1</string>
+          <string>useless fild 2</string>
+          <string>useless fild 3</string>
+        </three_more_useless_fields>
+      </InfoItem>
+    </info>
+  </SomeClass>
+  <SomeClass>
+    <identificatorId>some_identificator_8_number</identificatorId>
+    <dataItem>
+      <objectId>some_10_number_id</objectId>
+      <effectimeFrom>some_date_in_string</effectimeFrom>
+      <effectiveTo>some_date_in_string</effectiveTo>
+      <some_useless_stuff>add 3 string fields</some_useless_stuff>
+    </dataItem>
+    <info>
+      <InfoItem>
+        <Two_useless_fielsd>some Strings</Two_useless_fielsd>
+        <currentAt>some_date_in_string</currentAt>
+        <CurrentFrom>some_date_in_string</CurrentFrom>
+        <type>some_ string</type>
+        <three_more_useless_fields>
+          <string>useless fild 1</string>
+          <string>useless fild 2</string>
+          <string>useless fild 3</string>
+        </three_more_useless_fields>
+      </InfoItem>
+      <InfoItem>
+        <Two_useless_fielsd>some Strings</Two_useless_fielsd>
+        <currentAt>some_date_in_string</currentAt>
+        <CurrentFrom>some_date_in_string</CurrentFrom>
+        <type>some_ string</type>
+        <three_more_useless_fields>
+          <string>useless fild 1</string>
+          <string>useless fild 2</string>
+          <string>useless fild 3</string>
+        </three_more_useless_fields>
+      </InfoItem>
+    </info>
+  </SomeClass>
+</ArrayOfSomeClass>
