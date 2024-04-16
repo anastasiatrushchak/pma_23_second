@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfJsonData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <JsonData>
+    <IdentificatorId>some_identificator_8_number</IdentificatorId>
+    <Item>
+      <ObjectId>some_10_number_id</ObjectId>
+      <EffectimeFrom>some_date_in_string</EffectimeFrom>
+      <EffectiveTo>some_date_in_string</EffectiveTo>
+      <SomeUselessStuff>
+        <string>add 3 string fields</string>
+      </SomeUselessStuff>
+    </Item>
+    <Info>
+      <Info>
+        <TwoUselessFields>
+          <string>some Strings</string>
+        </TwoUselessFields>
+        <CurrentAt>some_date_in_string</CurrentAt>
+        <CurrentFrom>some_date_in_string</CurrentFrom>
+        <Type>some_string</Type>
+        <ThreeMoreUselessFields>
+          <string>some value</string>
+        </ThreeMoreUselessFields>
+      </Info>
+    </Info>
+  </JsonData>
+  <JsonData>
+    <IdentificatorId>some_identificator_8_number</IdentificatorId>
+    <Item>
+      <ObjectId>some_10_number_id</ObjectId>
+      <EffectimeFrom>some_date_in_string</EffectimeFrom>
+      <EffectiveTo>some_date_in_string</EffectiveTo>
+      <SomeUselessStuff>
+        <string>add 3 string fields</string>
+      </SomeUselessStuff>
+    </Item>
+    <Info>
+      <Info>
+        <TwoUselessFields>
+          <string>some Strings</string>
+        </TwoUselessFields>
+        <CurrentAt>some_date_in_string</CurrentAt>
+        <CurrentFrom>some_date_in_string</CurrentFrom>
+        <Type>some_string</Type>
+        <ThreeMoreUselessFields>
+          <string>some value</string>
+        </ThreeMoreUselessFields>
+      </Info>
+      <Info>
+        <TwoUselessFields>
+          <string>some Strings</string>
+        </TwoUselessFields>
+        <CurrentAt>some_date_in_string</CurrentAt>
+        <CurrentFrom>some_date_in_string</CurrentFrom>
+        <Type>some_string</Type>
+        <ThreeMoreUselessFields>
+          <string>some value</string>
+        </ThreeMoreUselessFields>
+      </Info>
+    </Info>
+  </JsonData>
+</ArrayOfJsonData>
