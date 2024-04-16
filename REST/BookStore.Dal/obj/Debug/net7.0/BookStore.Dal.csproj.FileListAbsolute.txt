@@ -1,0 +1,14 @@
+C:\Users\dmytrokushnir\BookStore\BookStore-Api\BookStore\BookStore.Dal\bin\Debug\net7.0\BookStore.Dal.deps.json
+C:\Users\dmytrokushnir\BookStore\BookStore-Api\BookStore\BookStore.Dal\bin\Debug\net7.0\BookStore.Dal.runtimeconfig.json
+C:\Users\dmytrokushnir\BookStore\BookStore-Api\BookStore\BookStore.Dal\bin\Debug\net7.0\BookStore.Dal.dll
+C:\Users\dmytrokushnir\BookStore\BookStore-Api\BookStore\BookStore.Dal\bin\Debug\net7.0\BookStore.Dal.pdb
+C:\Users\dmytrokushnir\BookStore\BookStore-Api\BookStore\BookStore.Dal\obj\Debug\net7.0\BookStore.Dal.csproj.AssemblyReference.cache
+C:\Users\dmytrokushnir\BookStore\BookStore-Api\BookStore\BookStore.Dal\obj\Debug\net7.0\BookStore.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmytrokushnir\BookStore\BookStore-Api\BookStore\BookStore.Dal\obj\Debug\net7.0\BookStore.Dal.AssemblyInfoInputs.cache
+C:\Users\dmytrokushnir\BookStore\BookStore-Api\BookStore\BookStore.Dal\obj\Debug\net7.0\BookStore.Dal.AssemblyInfo.cs
+C:\Users\dmytrokushnir\BookStore\BookStore-Api\BookStore\BookStore.Dal\obj\Debug\net7.0\BookStore.Dal.csproj.CoreCompileInputs.cache
+C:\Users\dmytrokushnir\BookStore\BookStore-Api\BookStore\BookStore.Dal\obj\Debug\net7.0\BookStore.Dal.dll
+C:\Users\dmytrokushnir\BookStore\BookStore-Api\BookStore\BookStore.Dal\obj\Debug\net7.0\refint\BookStore.Dal.dll
+C:\Users\dmytrokushnir\BookStore\BookStore-Api\BookStore\BookStore.Dal\obj\Debug\net7.0\BookStore.Dal.pdb
+C:\Users\dmytrokushnir\BookStore\BookStore-Api\BookStore\BookStore.Dal\obj\Debug\net7.0\BookStore.Dal.genruntimeconfig.cache
+C:\Users\dmytrokushnir\BookStore\BookStore-Api\BookStore\BookStore.Dal\obj\Debug\net7.0\ref\BookStore.Dal.dll
