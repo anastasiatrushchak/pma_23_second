@@ -1,0 +1,11 @@
+D:\c# uni\MapStruct\MapStruct\bin\Debug\file.json
+D:\c# uni\MapStruct\MapStruct\bin\Debug\MapStruct.exe.config
+D:\c# uni\MapStruct\MapStruct\bin\Debug\MapStruct.exe
+D:\c# uni\MapStruct\MapStruct\bin\Debug\MapStruct.pdb
+D:\c# uni\MapStruct\MapStruct\bin\Debug\Newtonsoft.Json.dll
+D:\c# uni\MapStruct\MapStruct\bin\Debug\Newtonsoft.Json.xml
+D:\c# uni\MapStruct\MapStruct\obj\Debug\MapStruct.csproj.AssemblyReference.cache
+D:\c# uni\MapStruct\MapStruct\obj\Debug\MapStruct.csproj.CoreCompileInputs.cache
+D:\c# uni\MapStruct\MapStruct\obj\Debug\MapStruct.csproj.Up2Date
+D:\c# uni\MapStruct\MapStruct\obj\Debug\MapStruct.exe
+D:\c# uni\MapStruct\MapStruct\obj\Debug\MapStruct.pdb
