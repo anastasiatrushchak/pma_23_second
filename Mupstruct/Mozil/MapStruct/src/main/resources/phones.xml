@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PhoneRecords>
+    <PhoneRecord>
+        <phoneDetails>
+            <modelId>1234567890</modelId>
+            <phoneBrand>Apple</phoneBrand>
+            <phoneEndDate>2022-12-31</phoneEndDate>
+            <phoneModel>iPhone 12</phoneModel>
+            <phoneStartDate>2022-01-01</phoneStartDate>
+            <phoneYear>2020</phoneYear>
+        </phoneDetails>
+        <phoneId>12345678</phoneId>
+        <userDetails>
+            <userActiveAt>2022-01-01</userActiveAt>
+            <userAddress>123 Main St, Anytown, USA</userAddress>
+            <userContact>johndoe@example.com</userContact>
+            <userCreatedOn>2022-12-31</userCreatedOn>
+            <userLicense>AB123456</userLicense>
+            <userName>John Doe</userName>
+            <userPhone>123-456-7890</userPhone>
+            <userType>Lease</userType>
+        </userDetails>
+    </PhoneRecord>
+    <PhoneRecord>
+        <phoneDetails>
+            <modelId>0987654321</modelId>
+            <phoneBrand>Samsung</phoneBrand>
+            <phoneEndDate>2022-12-31</phoneEndDate>
+            <phoneModel>Galaxy S21</phoneModel>
+            <phoneStartDate>2022-01-01</phoneStartDate>
+            <phoneYear>2021</phoneYear>
+        </phoneDetails>
+        <phoneId>87654321</phoneId>
+        <userDetails>
+            <userActiveAt>2022-01-01</userActiveAt>
+            <userAddress>456 Main St, Anytown, USA</userAddress>
+            <userContact>janedoe@example.com</userContact>
+            <userCreatedOn>2022-12-31</userCreatedOn>
+            <userLicense>CD987654</userLicense>
+            <userName>Jane Doe</userName>
+            <userPhone>987-654-3210</userPhone>
+            <userType>Purchase</userType>
+        </userDetails>
+        <userDetails>
+            <userActiveAt>2022-01-01</userActiveAt>
+            <userAddress>789 Main St, Anytown, USA</userAddress>
+            <userContact>bobsmith@example.com</userContact>
+            <userCreatedOn>2022-12-31</userCreatedOn>
+            <userLicense>EF456789</userLicense>
+            <userName>Bob Smith</userName>
+            <userPhone>456-789-1230</userPhone>
+            <userType>Lease</userType>
+        </userDetails>
+    </PhoneRecord>
+</PhoneRecords>
