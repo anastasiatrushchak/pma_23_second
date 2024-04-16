@@ -1,0 +1,61 @@
+[
+  {
+    "SubjectId": "11111111",
+    "SubjectDetails": {
+      "subjectId": "1234567890",
+      "teacher": "Mr. Smith",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "countHours": "100",
+      "ECTS": "5",
+      "semester": "1",
+      "isExam": "true"
+    },
+    "StudentsDetails": [{
+      "firstname": "John",
+      "lastName": "Doe",
+      "email": "johndoe@gmail.com",
+      "phone": "1234567890",
+      "address": "1234 Elm St",
+      "city": "Odesa",
+      "age": "25",
+      "bithday": "1995-01-01"
+    }
+    ]
+  },
+  {
+    "SubjectId": "11111112",
+    "SubjectDetails": {
+      "subjectId": "1234567891",
+      "teacher": "Mr. Lil",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "countHours": "100",
+      "ECTS": "5",
+      "semester": "1",
+      "isExam": "true"
+    },
+    "StudentsDetails": [
+      {
+        "firstname": "Tom",
+        "lastName": "Jim",
+        "email": "tomjim@gmail.com",
+        "phone": "09876543221",
+        "address": "Str Scevchenka 1",
+        "city": "Lviv",
+        "age": "25",
+        "bithday": "1995-01-01"
+      },
+      {
+        "firstname": "Lev",
+        "lastName": "Predko",
+        "email": "levpredko@gmail.com",
+        "phone": "09876543221",
+        "address": "Str Scevchenka 2",
+        "city": "Lviv",
+        "age": "25",
+        "bithday": "1995-01-01"
+      }
+    ]
+  }
+]
