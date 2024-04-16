@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGeneral xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <General>
+    <Id>some_identificator_8_number</Id>
+    <Item>
+      <Id>some_10_number_id</Id>
+      <EffectTimeFrom>some_date_in_string</EffectTimeFrom>
+      <EffectTimeTo>some_date_in_string</EffectTimeTo>
+      <Stuff>add 3 string fields</Stuff>
+    </Item>
+    <Info>
+      <Info>
+        <Field>some Strings</Field>
+        <CurrentAt>some_date_in_string</CurrentAt>
+        <CurrentFrom>some_date_in_string</CurrentFrom>
+        <Type>some_ string</Type>
+        <Fields>
+          <string>useless fild 1</string>
+          <string>useless fild 2</string>
+          <string>useless fild 3</string>
+        </Fields>
+      </Info>
+    </Info>
+  </General>
+  <General>
+    <Id>some_identificator_8_number</Id>
+    <Item>
+      <Id>some_10_number_id</Id>
+      <EffectTimeFrom>some_date_in_string</EffectTimeFrom>
+      <EffectTimeTo>some_date_in_string</EffectTimeTo>
+      <Stuff>add 3 string fields</Stuff>
+    </Item>
+    <Info>
+      <Info>
+        <Field>some Strings</Field>
+        <CurrentAt>some_date_in_string</CurrentAt>
+        <CurrentFrom>some_date_in_string</CurrentFrom>
+        <Type>some_ string</Type>
+        <Fields>
+          <string>useless fild 1</string>
+          <string>useless fild 2</string>
+          <string>useless fild 3</string>
+        </Fields>
+      </Info>
+      <Info>
+        <Field>some Strings</Field>
+        <CurrentAt>some_date_in_string</CurrentAt>
+        <CurrentFrom>some_date_in_string</CurrentFrom>
+        <Type>some_ string</Type>
+        <Fields>
+          <string>useless fild 1</string>
+          <string>useless fild 2</string>
+          <string>useless fild 3</string>
+        </Fields>
+      </Info>
+    </Info>
+  </General>
+</ArrayOfGeneral>

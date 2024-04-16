@@ -1,0 +1,56 @@
+[
+  {
+    "agreementId": "12345678",
+    "carDetails": {
+      "carId": "1234567890",
+      "agreementStartDate": "2022-01-01",
+      "agreementEndDate": "2022-12-31",
+      "carModel": "Model S",
+      "carMake": "Tesla",
+      "carYear": "2020"
+    },
+    "customerInfo": {
+      "customerName": "John Doe",
+      "customerContact": "johndoe@example.com",
+      "agreementActiveAt": "2022-01-01",
+      "agreementCreatedOn": "2022-12-31",
+      "agreementType": "Lease",
+      "customerAddress": "123 Main St, Anytown, USA",
+      "customerPhone": "123-456-7890",
+      "customerLicense": "AB123456"
+    }
+  },
+  {
+    "agreementId": "87654321",
+    "carDetails": {
+      "carId": "0987654321",
+      "agreementStartDate": "2022-01-01",
+      "agreementEndDate": "2022-12-31",
+      "carModel": "Model 3",
+      "carMake": "Tesla",
+      "carYear": "2021"
+    },
+    "customerInfo": [
+      {
+        "customerName": "Jane Doe",
+        "customerContact": "janedoe@example.com",
+        "agreementActiveAt": "2022-01-01",
+        "agreementCreatedOn": "2022-12-31",
+        "agreementType": "Purchase",
+        "customerAddress": "456 Main St, Anytown, USA",
+        "customerPhone": "987-654-3210",
+        "customerLicense": "CD987654"
+      },
+      {
+        "customerName": "Bob Smith",
+        "customerContact": "bobsmith@example.com",
+        "agreementActiveAt": "2022-01-01",
+        "agreementCreatedOn": "2022-12-31",
+        "agreementType": "Lease",
+        "customerAddress": "789 Main St, Anytown, USA",
+        "customerPhone": "456-789-1230",
+        "customerLicense": "EF456789"
+      }
+    ]
+  }
+]

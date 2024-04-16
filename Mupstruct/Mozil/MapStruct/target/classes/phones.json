@@ -1,0 +1,58 @@
+[
+  {
+    "phoneId": "12345678",
+    "phoneDetails": {
+      "modelId": "1234567890",
+      "phoneStartDate": "2022-01-01",
+      "phoneEndDate": "2022-12-31",
+      "phoneModel": "iPhone 12",
+      "phoneBrand": "Apple",
+      "phoneYear": "2020"
+    },
+    "userDetails": [
+      {
+        "userName": "John Doe",
+        "userContact": "johndoe@example.com",
+        "userActiveAt": "2022-01-01",
+        "userCreatedOn": "2022-12-31",
+        "userType": "Lease",
+        "userAddress": "123 Main St, Anytown, USA",
+        "userPhone": "123-456-7890",
+        "userLicense": "AB123456"
+      }
+    ]
+  },
+  {
+    "phoneId": "87654321",
+    "phoneDetails": {
+      "modelId": "0987654321",
+      "phoneStartDate": "2022-01-01",
+      "phoneEndDate": "2022-12-31",
+      "phoneModel": "Galaxy S21",
+      "phoneBrand": "Samsung",
+      "phoneYear": "2021"
+    },
+    "userDetails": [
+      {
+        "userName": "Jane Doe",
+        "userContact": "janedoe@example.com",
+        "userActiveAt": "2022-01-01",
+        "userCreatedOn": "2022-12-31",
+        "userType": "Purchase",
+        "userAddress": "456 Main St, Anytown, USA",
+        "userPhone": "987-654-3210",
+        "userLicense": "CD987654"
+      },
+      {
+        "userName": "Bob Smith",
+        "userContact": "bobsmith@example.com",
+        "userActiveAt": "2022-01-01",
+        "userCreatedOn": "2022-12-31",
+        "userType": "Lease",
+        "userAddress": "789 Main St, Anytown, USA",
+        "userPhone": "456-789-1230",
+        "userLicense": "EF456789"
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Data indentificatorId="some_identificator_8_number">
+    <dataItem objectId="some_10_number_id">
+        <effectimeFrom>some_date_in_string</effectimeFrom>
+        <effectiveTo>some_date_in_string</effectiveTo>
+        <someUselessStuff>add 3 string fields</someUselessStuff>
+    </dataItem>
+    <infos>
+        <info>
+            <currentAt>some_date_in_string</currentAt>
+            <CurrentFrom>some_date_in_string</CurrentFrom>
+            <type>some_ string</type>
+        </info>
+    </infos>
+</Data>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Data indentificatorId="some_identificator_8_number">
+    <dataItem objectId="some_10_number_id">
+        <effectimeFrom>some_date_in_string</effectimeFrom>
+        <effectiveTo>some_date_in_string</effectiveTo>
+        <someUselessStuff>add 3 string fields</someUselessStuff>
+    </dataItem>
+    <infos>
+        <info TwoUselessFielsd="some Strings">
+            <currentAt>some_date_in_string</currentAt>
+            <CurrentFrom>some_date_in_string</CurrentFrom>
+            <type>some_ string</type>
+            <ThreeMoreUselessFields>
+                <fild>useless fild 1</fild>
+                <fild>useles fild 2</fild>
+                <fild>useles fild 3</fild>
+            </ThreeMoreUselessFields>
+        </info>
+        <info TwoUselessFielsd="some Strings">
+            <currentAt>some_date_in_string</currentAt>
+            <CurrentFrom>some_date_in_string</CurrentFrom>
+            <type>some_ string</type>
+            <ThreeMoreUselessFields>
+                <fild>useless fild 1</fild>
+                <fild>useles fild 2</fild>
+                <fild>useles fild 3</fild>
+            </ThreeMoreUselessFields>
+        </info>
+    </infos>
+</Data>

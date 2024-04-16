@@ -1,0 +1,10 @@
+C:\Users\Златомира\source\repos\C#\Severylova-08\Mupstruct\Mupstruct\bin\Debug\Mupstruct.exe.config
+C:\Users\Златомира\source\repos\C#\Severylova-08\Mupstruct\Mupstruct\bin\Debug\Mupstruct.exe
+C:\Users\Златомира\source\repos\C#\Severylova-08\Mupstruct\Mupstruct\bin\Debug\Mupstruct.pdb
+C:\Users\Златомира\source\repos\C#\Severylova-08\Mupstruct\Mupstruct\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Златомира\source\repos\C#\Severylova-08\Mupstruct\Mupstruct\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Златомира\source\repos\C#\Severylova-08\Mupstruct\Mupstruct\obj\Debug\Mupstruct.csproj.AssemblyReference.cache
+C:\Users\Златомира\source\repos\C#\Severylova-08\Mupstruct\Mupstruct\obj\Debug\Mupstruct.csproj.CoreCompileInputs.cache
+C:\Users\Златомира\source\repos\C#\Severylova-08\Mupstruct\Mupstruct\obj\Debug\Mupstruct.csproj.Up2Date
+C:\Users\Златомира\source\repos\C#\Severylova-08\Mupstruct\Mupstruct\obj\Debug\Mupstruct.exe
+C:\Users\Златомира\source\repos\C#\Severylova-08\Mupstruct\Mupstruct\obj\Debug\Mupstruct.pdb

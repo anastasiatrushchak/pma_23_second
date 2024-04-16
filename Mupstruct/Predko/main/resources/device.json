@@ -1,0 +1,62 @@
+[
+  {
+    "agreementId": "12345678",
+    "deviceDetails": {
+      "deviceId": "1234567890",
+      "agreementStartDate": "2022-01-01",
+      "agreementEndDate": "2022-12-31",
+      "deviceModel": "iPhone 13 Pro",
+      "deviceBrand": "Apple",
+      "deviceYear": "2022"
+    },
+    "customerInfo": {
+      "customerName": "Alice Smith",
+      "customerContact": "alicesmith@example.com",
+      "agreementActiveAt": "2022-01-01",
+      "agreementCreatedOn": "2022-12-31",
+      "agreementType": "Lease",
+      "customerAddress": "123 Main St, Anytown, USA",
+      "customerPhone": "123-456-7890",
+      "customerLicense": "AB123456",
+      "customerAge": 35,
+      "customerGender": "Female"
+    }
+  },
+  {
+    "agreementId": "87654321",
+    "deviceDetails": {
+      "deviceId": "0987654321",
+      "agreementStartDate": "2022-01-01",
+      "agreementEndDate": "2022-12-31",
+      "deviceModel": "Samsung Galaxy S21",
+      "deviceBrand": "Samsung",
+      "deviceYear": "2021"
+    },
+    "customerInfo": [
+      {
+        "customerName": "Eve Johnson",
+        "customerContact": "evejohnson@example.com",
+        "agreementActiveAt": "2022-01-01",
+        "agreementCreatedOn": "2022-12-31",
+        "agreementType": "Purchase",
+        "customerAddress": "456 Main St, Anytown, USA",
+        "customerPhone": "987-654-3210",
+        "customerLicense": "CD987654",
+        "customerAge": 28,
+        "customerGender": "Female"
+      },
+      {
+        "customerName": "David Brown",
+        "customerContact": "davidbrown@example.com",
+        "agreementActiveAt": "2022-01-01",
+        "agreementCreatedOn": "2022-12-31",
+        "agreementType": "Lease",
+        "customerAddress": "789 Main St, Anytown, USA",
+        "customerPhone": "456-789-1230",
+        "customerLicense": "EF456789",
+        "customerAge": 40,
+        "customerGender": "Male"
+      }
+    ]
+  }
+]

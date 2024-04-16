@@ -1,0 +1,15 @@
+C:\Users\kravc\source\repos\Mapping\Mapping\bin\Debug\net6.0\Mapping.exe
+C:\Users\kravc\source\repos\Mapping\Mapping\bin\Debug\net6.0\Mapping.deps.json
+C:\Users\kravc\source\repos\Mapping\Mapping\bin\Debug\net6.0\Mapping.runtimeconfig.json
+C:\Users\kravc\source\repos\Mapping\Mapping\bin\Debug\net6.0\Mapping.dll
+C:\Users\kravc\source\repos\Mapping\Mapping\bin\Debug\net6.0\Mapping.pdb
+C:\Users\kravc\source\repos\Mapping\Mapping\obj\Debug\net6.0\Mapping.csproj.AssemblyReference.cache
+C:\Users\kravc\source\repos\Mapping\Mapping\obj\Debug\net6.0\Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kravc\source\repos\Mapping\Mapping\obj\Debug\net6.0\Mapping.AssemblyInfoInputs.cache
+C:\Users\kravc\source\repos\Mapping\Mapping\obj\Debug\net6.0\Mapping.AssemblyInfo.cs
+C:\Users\kravc\source\repos\Mapping\Mapping\obj\Debug\net6.0\Mapping.csproj.CoreCompileInputs.cache
+C:\Users\kravc\source\repos\Mapping\Mapping\obj\Debug\net6.0\Mapping.dll
+C:\Users\kravc\source\repos\Mapping\Mapping\obj\Debug\net6.0\refint\Mapping.dll
+C:\Users\kravc\source\repos\Mapping\Mapping\obj\Debug\net6.0\Mapping.pdb
+C:\Users\kravc\source\repos\Mapping\Mapping\obj\Debug\net6.0\Mapping.genruntimeconfig.cache
+C:\Users\kravc\source\repos\Mapping\Mapping\obj\Debug\net6.0\ref\Mapping.dll

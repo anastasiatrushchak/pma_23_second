@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Agreement>
+    <agreementId>87654321</agreementId>
+    <carDetails>
+        <agreementEndDate>2022-12-31</agreementEndDate>
+        <agreementStartDate>2022-01-01</agreementStartDate>
+        <carId>0987654321</carId>
+        <carMake>Tesla</carMake>
+        <carModel>Model 3</carModel>
+        <carYear>2021</carYear>
+    </carDetails>
+    <customerInfo>
+        <agreementActiveAt>2022-01-01</agreementActiveAt>
+        <agreementCreatedOn>2022-12-31</agreementCreatedOn>
+        <agreementType>Purchase</agreementType>
+        <customerAddress>456 Main St, Anytown, USA</customerAddress>
+        <customerContact>janedoe@example.com</customerContact>
+        <customerLicense>CD987654</customerLicense>
+        <customerName>Jane Doe</customerName>
+        <customerPhone>987-654-3210</customerPhone>
+    </customerInfo>
+    <customerInfo>
+        <agreementActiveAt>2022-01-01</agreementActiveAt>
+        <agreementCreatedOn>2022-12-31</agreementCreatedOn>
+        <agreementType>Lease</agreementType>
+        <customerAddress>789 Main St, Anytown, USA</customerAddress>
+        <customerContact>bobsmith@example.com</customerContact>
+        <customerLicense>EF456789</customerLicense>
+        <customerName>Bob Smith</customerName>
+        <customerPhone>456-789-1230</customerPhone>
+    </customerInfo>
+    <id>66190122d42ea57ab6a270d3</id>
+</Agreement>
