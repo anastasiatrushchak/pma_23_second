@@ -1,0 +1,14 @@
+C:\Users\darko\source\repos\linkedlist\bin\Debug\net8.0\linkedlist.exe
+C:\Users\darko\source\repos\linkedlist\bin\Debug\net8.0\linkedlist.deps.json
+C:\Users\darko\source\repos\linkedlist\bin\Debug\net8.0\linkedlist.runtimeconfig.json
+C:\Users\darko\source\repos\linkedlist\bin\Debug\net8.0\linkedlist.dll
+C:\Users\darko\source\repos\linkedlist\bin\Debug\net8.0\linkedlist.pdb
+C:\Users\darko\source\repos\linkedlist\obj\Debug\net8.0\linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darko\source\repos\linkedlist\obj\Debug\net8.0\linkedlist.AssemblyInfoInputs.cache
+C:\Users\darko\source\repos\linkedlist\obj\Debug\net8.0\linkedlist.AssemblyInfo.cs
+C:\Users\darko\source\repos\linkedlist\obj\Debug\net8.0\linkedlist.csproj.CoreCompileInputs.cache
+C:\Users\darko\source\repos\linkedlist\obj\Debug\net8.0\linkedlist.dll
+C:\Users\darko\source\repos\linkedlist\obj\Debug\net8.0\refint\linkedlist.dll
+C:\Users\darko\source\repos\linkedlist\obj\Debug\net8.0\linkedlist.pdb
+C:\Users\darko\source\repos\linkedlist\obj\Debug\net8.0\linkedlist.genruntimeconfig.cache
+C:\Users\darko\source\repos\linkedlist\obj\Debug\net8.0\ref\linkedlist.dll
