@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gCvU3/mTcuDuaQfVbTUTLUPwP7UsMQ3i7myvCH4bj53m0tHARhLZDEhsrJzIy5kQQS04W5zk02vl9YFuMt6cQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kravc\\source\\repos\\MupStruct\\MupStruct\\MupStruct.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kravc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
