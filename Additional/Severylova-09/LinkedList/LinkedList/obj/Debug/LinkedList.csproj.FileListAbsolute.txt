@@ -1,0 +1,7 @@
+C:\Users\Златомира\source\repos\C#\Severylova-07\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\Златомира\source\repos\C#\Severylova-07\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\Златомира\source\repos\C#\Severylova-07\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\Златомира\source\repos\C#\Severylova-07\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.AssemblyReference.cache
+C:\Users\Златомира\source\repos\C#\Severylova-07\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Златомира\source\repos\C#\Severylova-07\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\Златомира\source\repos\C#\Severylova-07\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
