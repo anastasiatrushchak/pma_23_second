@@ -1,0 +1,14 @@
+D:\універ!\sharping\listtt\listtt\bin\Debug\net8.0\listtt.exe
+D:\універ!\sharping\listtt\listtt\bin\Debug\net8.0\listtt.deps.json
+D:\універ!\sharping\listtt\listtt\bin\Debug\net8.0\listtt.runtimeconfig.json
+D:\універ!\sharping\listtt\listtt\bin\Debug\net8.0\listtt.dll
+D:\універ!\sharping\listtt\listtt\bin\Debug\net8.0\listtt.pdb
+D:\універ!\sharping\listtt\listtt\obj\Debug\net8.0\listtt.GeneratedMSBuildEditorConfig.editorconfig
+D:\універ!\sharping\listtt\listtt\obj\Debug\net8.0\listtt.AssemblyInfoInputs.cache
+D:\універ!\sharping\listtt\listtt\obj\Debug\net8.0\listtt.AssemblyInfo.cs
+D:\універ!\sharping\listtt\listtt\obj\Debug\net8.0\listtt.csproj.CoreCompileInputs.cache
+D:\універ!\sharping\listtt\listtt\obj\Debug\net8.0\listtt.dll
+D:\універ!\sharping\listtt\listtt\obj\Debug\net8.0\refint\listtt.dll
+D:\універ!\sharping\listtt\listtt\obj\Debug\net8.0\listtt.pdb
+D:\універ!\sharping\listtt\listtt\obj\Debug\net8.0\listtt.genruntimeconfig.cache
+D:\універ!\sharping\listtt\listtt\obj\Debug\net8.0\ref\listtt.dll
