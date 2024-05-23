@@ -1,0 +1,7 @@
+D:\c# uni\ArrayList\ArrayList\bin\Debug\ArrayList.exe.config
+D:\c# uni\ArrayList\ArrayList\bin\Debug\ArrayList.exe
+D:\c# uni\ArrayList\ArrayList\bin\Debug\ArrayList.pdb
+D:\c# uni\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.AssemblyReference.cache
+D:\c# uni\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.CoreCompileInputs.cache
+D:\c# uni\ArrayList\ArrayList\obj\Debug\ArrayList.exe
+D:\c# uni\ArrayList\ArrayList\obj\Debug\ArrayList.pdb
