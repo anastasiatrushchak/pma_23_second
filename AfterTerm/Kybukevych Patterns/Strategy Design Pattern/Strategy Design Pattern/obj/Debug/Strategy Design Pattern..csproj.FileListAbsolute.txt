@@ -1,0 +1,6 @@
+C:\Users\Kate\school\school-webapi\Strategy Design Pattern\Strategy Design Pattern\bin\Debug\Strategy_Design_Pattern_.exe
+C:\Users\Kate\school\school-webapi\Strategy Design Pattern\Strategy Design Pattern\bin\Debug\Strategy_Design_Pattern_.pdb
+C:\Users\Kate\school\school-webapi\Strategy Design Pattern\Strategy Design Pattern\obj\Debug\Strategy Design Pattern..csproj.AssemblyReference.cache
+C:\Users\Kate\school\school-webapi\Strategy Design Pattern\Strategy Design Pattern\obj\Debug\Strategy Design Pattern..csproj.CoreCompileInputs.cache
+C:\Users\Kate\school\school-webapi\Strategy Design Pattern\Strategy Design Pattern\obj\Debug\Strategy_Design_Pattern_.exe
+C:\Users\Kate\school\school-webapi\Strategy Design Pattern\Strategy Design Pattern\obj\Debug\Strategy_Design_Pattern_.pdb
