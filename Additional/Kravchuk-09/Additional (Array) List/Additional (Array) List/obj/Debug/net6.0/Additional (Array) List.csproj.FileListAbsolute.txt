@@ -1,0 +1,15 @@
+C:\Users\kravc\source\repos\Additional (Array) List\Additional (Array) List\bin\Debug\net6.0\Additional (Array) List.exe
+C:\Users\kravc\source\repos\Additional (Array) List\Additional (Array) List\bin\Debug\net6.0\Additional (Array) List.deps.json
+C:\Users\kravc\source\repos\Additional (Array) List\Additional (Array) List\bin\Debug\net6.0\Additional (Array) List.runtimeconfig.json
+C:\Users\kravc\source\repos\Additional (Array) List\Additional (Array) List\bin\Debug\net6.0\Additional (Array) List.dll
+C:\Users\kravc\source\repos\Additional (Array) List\Additional (Array) List\bin\Debug\net6.0\Additional (Array) List.pdb
+C:\Users\kravc\source\repos\Additional (Array) List\Additional (Array) List\obj\Debug\net6.0\Additional (Array) List.csproj.AssemblyReference.cache
+C:\Users\kravc\source\repos\Additional (Array) List\Additional (Array) List\obj\Debug\net6.0\Additional (Array) List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kravc\source\repos\Additional (Array) List\Additional (Array) List\obj\Debug\net6.0\Additional (Array) List.AssemblyInfoInputs.cache
+C:\Users\kravc\source\repos\Additional (Array) List\Additional (Array) List\obj\Debug\net6.0\Additional (Array) List.AssemblyInfo.cs
+C:\Users\kravc\source\repos\Additional (Array) List\Additional (Array) List\obj\Debug\net6.0\Additional (Array) List.csproj.CoreCompileInputs.cache
+C:\Users\kravc\source\repos\Additional (Array) List\Additional (Array) List\obj\Debug\net6.0\Additional (Array) List.dll
+C:\Users\kravc\source\repos\Additional (Array) List\Additional (Array) List\obj\Debug\net6.0\refint\Additional (Array) List.dll
+C:\Users\kravc\source\repos\Additional (Array) List\Additional (Array) List\obj\Debug\net6.0\Additional (Array) List.pdb
+C:\Users\kravc\source\repos\Additional (Array) List\Additional (Array) List\obj\Debug\net6.0\Additional (Array) List.genruntimeconfig.cache
+C:\Users\kravc\source\repos\Additional (Array) List\Additional (Array) List\obj\Debug\net6.0\ref\Additional (Array) List.dll
