@@ -1,0 +1,6 @@
+C:\Users\Kate\school\school-webapi\ABATRACT FACTORY\ABATRACT FACTORY\bin\Debug\ABATRACT_FACTORY.exe
+C:\Users\Kate\school\school-webapi\ABATRACT FACTORY\ABATRACT FACTORY\bin\Debug\ABATRACT_FACTORY.pdb
+C:\Users\Kate\school\school-webapi\ABATRACT FACTORY\ABATRACT FACTORY\obj\Debug\ABATRACT FACTORY.csproj.AssemblyReference.cache
+C:\Users\Kate\school\school-webapi\ABATRACT FACTORY\ABATRACT FACTORY\obj\Debug\ABATRACT FACTORY.csproj.CoreCompileInputs.cache
+C:\Users\Kate\school\school-webapi\ABATRACT FACTORY\ABATRACT FACTORY\obj\Debug\ABATRACT_FACTORY.exe
+C:\Users\Kate\school\school-webapi\ABATRACT FACTORY\ABATRACT FACTORY\obj\Debug\ABATRACT_FACTORY.pdb
