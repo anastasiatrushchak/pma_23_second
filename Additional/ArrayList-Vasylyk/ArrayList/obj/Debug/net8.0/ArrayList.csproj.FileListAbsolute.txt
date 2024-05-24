@@ -1,0 +1,14 @@
+/Users/nasta/RiderProjects/ArrayList/ArrayList/bin/Debug/net8.0/ArrayList
+/Users/nasta/RiderProjects/ArrayList/ArrayList/bin/Debug/net8.0/ArrayList.deps.json
+/Users/nasta/RiderProjects/ArrayList/ArrayList/bin/Debug/net8.0/ArrayList.runtimeconfig.json
+/Users/nasta/RiderProjects/ArrayList/ArrayList/bin/Debug/net8.0/ArrayList.dll
+/Users/nasta/RiderProjects/ArrayList/ArrayList/bin/Debug/net8.0/ArrayList.pdb
+/Users/nasta/RiderProjects/ArrayList/ArrayList/obj/Debug/net8.0/ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nasta/RiderProjects/ArrayList/ArrayList/obj/Debug/net8.0/ArrayList.AssemblyInfoInputs.cache
+/Users/nasta/RiderProjects/ArrayList/ArrayList/obj/Debug/net8.0/ArrayList.AssemblyInfo.cs
+/Users/nasta/RiderProjects/ArrayList/ArrayList/obj/Debug/net8.0/ArrayList.csproj.CoreCompileInputs.cache
+/Users/nasta/RiderProjects/ArrayList/ArrayList/obj/Debug/net8.0/ArrayList.dll
+/Users/nasta/RiderProjects/ArrayList/ArrayList/obj/Debug/net8.0/refint/ArrayList.dll
+/Users/nasta/RiderProjects/ArrayList/ArrayList/obj/Debug/net8.0/ArrayList.pdb
+/Users/nasta/RiderProjects/ArrayList/ArrayList/obj/Debug/net8.0/ArrayList.genruntimeconfig.cache
+/Users/nasta/RiderProjects/ArrayList/ArrayList/obj/Debug/net8.0/ref/ArrayList.dll
